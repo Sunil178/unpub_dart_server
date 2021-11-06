@@ -1,0 +1,1785 @@
+WARNING | System image is writable
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+WARNING | cannot add library /home/sunil/Android/Sdk/emulator/qemu/linux-x86_64/lib64/vulkan/libvulkan.so: failed
+ERROR   | Unable to connect to adb daemon on port: 5037
+INFO    | configAndStartRenderer: setting vsync to 60 hz
+INFO    | added library /home/sunil/Android/Sdk/emulator/lib64/vulkan/libvulkan.so
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local
+INFO    | Advertising in: /run/user/1000/avd/running/pid_25829.ini
+INFO    | Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+
+qemu-system-x86_64: warning: TSC frequency mismatch between VM (2496004 kHz) and host (2496005 kHz), and TSC scaling unavailable
+qemu-system-x86_64: warning: TSC frequency mismatch between VM (2496004 kHz) and host (2496005 kHz), and TSC scaling unavailable
+qemu-system-x86_64: warning: TSC frequency mismatch between VM (2496004 kHz) and host (2496005 kHz), and TSC scaling unavailable
+qemu-system-x86_64: warning: TSC frequency mismatch between VM (2496004 kHz) and host (2496005 kHz), and TSC scaling unavailable
+[  583.306085] audit: audit_lost=291 audit_rate_limit=5 audit_backlog_limit=64
+[  583.306168] type=1400 audit(1635763051.483:260): avc: denied { open } for pid=4905 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[  583.306204] type=1400 audit(1636126170.723:328): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  583.307008] type=1400 audit(1636126170.723:328): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  583.307014] type=1400 audit(1636126170.723:329): avc: denied { getattr } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  583.307044] type=1400 audit(1636126170.723:329): avc: denied { getattr } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  583.307063] type=1400 audit(1636126170.723:330): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  583.307103] type=1400 audit(1636126170.723:330): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  583.307107] type=1400 audit(1636126170.723:331): avc: denied { getattr } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  583.307122] type=1400 audit(1636126170.723:331): avc: denied { getattr } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  583.307125] type=1400 audit(1636126170.723:332): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[  583.324697] audit: rate limit exceeded
+[  602.372707] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[  602.434659] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[  638.797275] type=1400 audit(1636126170.723:332): avc: denied { open } for pid=5421 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[  638.797299] audit: audit_lost=358 audit_rate_limit=5 audit_backlog_limit=64
+[  638.797300] audit: rate limit exceeded
+[  638.800178] type=1400 audit(1636126226.213:400): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  638.802306] type=1400 audit(1636126226.213:400): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  638.804609] type=1400 audit(1636126226.213:401): avc: denied { getattr } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  638.806757] type=1400 audit(1636126226.213:401): avc: denied { getattr } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[  638.808814] type=1400 audit(1636126226.213:402): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  638.810597] type=1400 audit(1636126226.213:402): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  638.812070] type=1400 audit(1636126226.213:403): avc: denied { getattr } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  638.813693] type=1400 audit(1636126226.213:403): avc: denied { getattr } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[  638.815336] type=1400 audit(1636126226.213:404): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[  852.024791] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[  904.863649] type=1400 audit(1636126226.213:404): avc: denied { open } for pid=5482 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[  904.870005] type=1400 audit(1636126492.283:454): avc: denied { read } for pid=5641 comm="mple.unpub_demo" name="max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[  904.875424] type=1400 audit(1636126492.283:454): avc: denied { read } for pid=5641 comm="mple.unpub_demo" name="max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[  904.881985] type=1400 audit(1636126492.283:455): avc: denied { open } for pid=5641 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[  904.893511] type=1400 audit(1636126492.283:455): avc: denied { open } for pid=5641 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[  904.899368] type=1400 audit(1636126492.283:456): avc: denied { getattr } for pid=5641 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[  905.663492] lowmemorykiller: Killing 'droid.apps.maps' (4710) (tgid 4710), adj 906,
+[  905.663492]    to free 66892kB on behalf of 'kswapd0' (649) because
+[  905.663492]    cache 321104kB is below limit 322560kB for oom_score_adj 906
+[  905.663492]    Free memory is 279800kB above reserved
+[  905.674156] lowmemorykiller: Killing '.android.videos' (4060) (tgid 4060), adj 906,
+[  905.674156]    to free 32152kB on behalf of 'kswapd0' (649) because
+[  905.674156]    cache 321288kB is below limit 322560kB for oom_score_adj 906
+[  905.674156]    Free memory is 278436kB above reserved
+[  905.678807] lowmemorykiller: Killing 'movies_logging' (4096) (tgid 4060), adj 906,
+[  905.678807]    to free 35584kB on behalf of 'kswapd0' (649) because
+[  905.678807]    cache 321840kB is below limit 322560kB for oom_score_adj 906
+[  905.678807]    Free memory is 278064kB above reserved
+[  906.152514] init: Untracked pid 5625 received signal 1
+[  911.570419] lowmemorykiller: Killing 'ogle.android.gm' (3540) (tgid 3540), adj 906,
+[  911.570419]    to free 48144kB on behalf of 'kswapd0' (649) because
+[  911.570419]    cache 314920kB is below limit 322560kB for oom_score_adj 906
+[  911.570419]    Free memory is 274600kB above reserved
+[  923.946428] lowmemorykiller: Killing 'android.gms:car' (4109) (tgid 4109), adj 906,
+[  923.946428]    to free 51044kB on behalf of 'kswapd0' (649) because
+[  923.946428]    cache 317192kB is below limit 322560kB for oom_score_adj 906
+[  923.946428]    Free memory is 282944kB above reserved
+[  923.950144] lowmemorykiller: Killing 'ndroid.keychain' (4806) (tgid 4806), adj 906,
+[  923.950144]    to free 41704kB on behalf of 'kswapd0' (649) because
+[  923.950144]    cache 317204kB is below limit 322560kB for oom_score_adj 906
+[  923.950144]    Free memory is 282352kB above reserved
+[ 1050.225411] init: Untracked pid 5490 received signal 1
+[ 1050.342880] init: Untracked pid 5760 received signal 1
+[ 1052.041940] type=1400 audit(1636126492.283:456): avc: denied { getattr } for pid=5641 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 1052.043152] audit: audit_lost=407 audit_rate_limit=5 audit_backlog_limit=64
+[ 1052.043153] audit: rate limit exceeded
+[ 1052.046727] type=1400 audit(1636126639.463:457): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 1052.050728] type=1400 audit(1636126639.463:457): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 1052.054324] type=1400 audit(1636126639.463:458): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 1052.058893] type=1400 audit(1636126639.463:458): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 1052.061830] type=1400 audit(1636126639.463:459): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 1052.064650] type=1400 audit(1636126639.463:459): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 1052.067762] type=1400 audit(1636126639.463:460): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 1052.070527] type=1400 audit(1636126639.463:460): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 1052.072784] type=1400 audit(1636126639.463:461): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 1052.075588] type=1400 audit(1636126639.463:461): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 1052.077790] type=1400 audit(1636126639.463:462): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 1052.080595] type=1400 audit(1636126639.463:462): avc: denied { getattr } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 1052.082921] type=1400 audit(1636126639.463:463): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:ctl_bootanim_prop:s0" dev="tmpfs" ino=7190 scontext=u:r:shell:s0 tcontext=u:object_r:ctl_bootanim_prop:s0 tclass=file permissive=1
+[ 1081.694722] init: Untracked pid 5769 received signal 1
+[ 1202.371763] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1202.427171] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1438.100703] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1513.001022] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1642.419285] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1774.813905] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1802.371284] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1802.426549] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 1825.705499] type=1400 audit(1636126639.463:463): avc: denied { open } for pid=5762 comm="getprop" path="/dev/__properties__/u:object_r:ctl_bootanim_prop:s0" dev="tmpfs" ino=7190 scontext=u:r:shell:s0 tcontext=u:object_r:ctl_bootanim_prop:s0 tclass=file permissive=1
+[ 1825.709060] type=1400 audit(1636127413.123:529): avc: denied { open } for pid=3818 comm="Binder:3818_3" path="/sys/devices/virtual/android_usb/android0/state" dev="sysfs" ino=14096 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs_android_usb:s0 tclass=file permissive=1
+[ 1826.706107] type=1400 audit(1636127413.123:529): avc: denied { open } for pid=3818 comm="Binder:3818_3" path="/sys/devices/virtual/android_usb/android0/state" dev="sysfs" ino=14096 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs_android_usb:s0 tclass=file permissive=1
+[ 1826.709869] type=1400 audit(1636127414.123:530): avc: denied { open } for pid=3818 comm="IntentService[D" path="/sys/block" dev="sysfs" ino=941 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=1
+[ 1827.006214] type=1400 audit(1636127414.123:530): avc: denied { open } for pid=3818 comm="IntentService[D" path="/sys/block" dev="sysfs" ino=941 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=1
+[ 1827.008604] type=1400 audit(1636127414.423:531): avc: denied { open } for pid=3818 comm="IntentService[D" path="/proc/bus/pci/devices" dev="proc" ino=4026532053 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=1
+[ 1827.070304] type=1400 audit(1636127414.423:531): avc: denied { open } for pid=3818 comm="IntentService[D" path="/proc/bus/pci/devices" dev="proc" ino=4026532053 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=1
+[ 1827.072634] type=1400 audit(1636127414.493:532): avc: denied { read } for pid=3818 comm="IntentService[D" name="type" dev="sysfs" ino=12973 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+[ 1827.075025] type=1400 audit(1636127414.493:532): avc: denied { read } for pid=3818 comm="IntentService[D" name="type" dev="sysfs" ino=12973 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+[ 1827.077496] type=1400 audit(1636127414.493:533): avc: denied { open } for pid=3818 comm="IntentService[D" path="/sys/devices/virtual/net/ip6_vti0/type" dev="sysfs" ino=12973 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+[ 2197.936866] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2235.133829] audit: audit_lost=472 audit_rate_limit=5 audit_backlog_limit=64
+[ 2235.134625] type=1400 audit(1636127414.493:533): avc: denied { open } for pid=3818 comm="IntentService[D" path="/sys/devices/virtual/net/ip6_vti0/type" dev="sysfs" ino=12973 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+[ 2235.134833] type=1400 audit(1636127822.553:534): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 2235.137038] type=1400 audit(1636127822.553:534): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 2235.137078] type=1400 audit(1636127822.553:535): avc: denied { getattr } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 2235.137694] type=1400 audit(1636127822.553:535): avc: denied { getattr } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_a2dp_offload_prop:s0" dev="tmpfs" ino=7184 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_a2dp_offload_prop:s0 tclass=file permissive=1
+[ 2235.137851] type=1400 audit(1636127822.553:536): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 2235.137943] type=1400 audit(1636127822.553:536): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 2235.137952] type=1400 audit(1636127822.553:537): avc: denied { getattr } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 2235.137999] type=1400 audit(1636127822.553:537): avc: denied { getattr } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:bluetooth_prop:s0" dev="tmpfs" ino=7185 scontext=u:r:shell:s0 tcontext=u:object_r:bluetooth_prop:s0 tclass=file permissive=1
+[ 2235.138063] type=1400 audit(1636127822.553:538): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 2235.163827] audit: rate limit exceeded
+[ 2284.242918] type=1400 audit(1636127822.553:538): avc: denied { open } for pid=6157 comm="getprop" path="/dev/__properties__/u:object_r:boottime_prop:s0" dev="tmpfs" ino=7187 scontext=u:r:shell:s0 tcontext=u:object_r:boottime_prop:s0 tclass=file permissive=1
+[ 2284.251035] type=1400 audit(1636127871.663:606): avc: denied { read } for pid=6278 comm="mple.unpub_demo" name="max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 2284.255689] type=1400 audit(1636127871.663:606): avc: denied { read } for pid=6278 comm="mple.unpub_demo" name="max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 2284.259220] type=1400 audit(1636127871.663:607): avc: denied { open } for pid=6278 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 2284.263089] type=1400 audit(1636127871.663:607): avc: denied { open } for pid=6278 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 2284.266844] type=1400 audit(1636127871.663:608): avc: denied { getattr } for pid=6278 comm="mple.unpub_demo" path="/proc/sys/vm/max_map_count" dev="proc" ino=54589 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:proc_max_map_count:s0 tclass=file permissive=1
+[ 2285.810753] init: Untracked pid 6251 received signal 1
+[ 2401.084219] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2402.369972] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2402.442021] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2535.651732] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2673.318360] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 2784.676456] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3002.396446] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3002.463982] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3062.428881] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3143.735998] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3192.135434] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3272.242858] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3381.124451] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3481.411892] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3492.473234] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3560.672836] clocksource: timekeeping watchdog: Marking clocksource 'tsc' as unstable because the skew is too large:
+[ 3560.672837] clocksource:                       'hpet' wd_now: e9f07ab2 wd_last: e689c019 mask: ffffffff
+[ 3560.672837] clocksource:                       'tsc' cs_now: 8160bea00e4 cs_last: 815c1795b8e mask: ffffffffffffffff
+[ 3560.743045] clocksource: Switched to clocksource hpet
+[ 3602.385572] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3602.432929] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3662.467752] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3672.907971] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3722.603970] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3733.271192] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3833.695679] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 3893.787368] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4056.394034] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4094.140535] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4116.593506] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4202.436531] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4202.463440] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4315.168349] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4406.686498] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4466.759327] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4526.829137] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4689.611541] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4802.380013] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4802.425921] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4862.445245] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4906.927120] init: Untracked pid 6715 exited with status 0
+[ 4906.940855] init: Untracked pid 6717 exited with status 0
+[ 4906.996911] init: Untracked pid 6720 exited with status 0
+[ 4906.997957] init: Untracked pid 6722 exited with status 0
+[ 4907.271921] init: Untracked pid 6725 exited with status 0
+[ 4907.273740] init: Untracked pid 6727 exited with status 0
+[ 4907.296299] init: Untracked pid 6730 exited with status 0
+[ 4907.297309] init: Untracked pid 6732 exited with status 0
+[ 4907.325829] init: Untracked pid 6737 exited with status 0
+[ 4907.327326] init: Untracked pid 6739 exited with status 0
+[ 4907.797122] init: Untracked pid 6743 exited with status 0
+[ 4907.798296] init: Untracked pid 6745 exited with status 0
+[ 4907.822755] init: Untracked pid 6748 exited with status 0
+[ 4907.831728] init: Untracked pid 6750 exited with status 0
+[ 4922.510623] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4967.691621] init: Untracked pid 6766 exited with status 0
+[ 4967.692685] init: Untracked pid 6764 exited with status 0
+[ 4967.727922] init: Untracked pid 6769 exited with status 0
+[ 4967.729434] init: Untracked pid 6771 exited with status 0
+[ 4967.758759] init: Untracked pid 6775 exited with status 0
+[ 4967.762031] init: Untracked pid 6777 exited with status 0
+[ 4967.791918] init: Untracked pid 6781 exited with status 0
+[ 4967.803089] init: Untracked pid 6783 exited with status 0
+[ 4967.856742] init: Untracked pid 6786 exited with status 0
+[ 4967.857640] init: Untracked pid 6788 exited with status 0
+[ 4967.884387] init: Untracked pid 6791 exited with status 0
+[ 4967.885397] init: Untracked pid 6793 exited with status 0
+[ 4967.903895] init: Untracked pid 6796 exited with status 0
+[ 4967.905820] init: Untracked pid 6798 exited with status 0
+[ 4967.929402] init: Untracked pid 6802 exited with status 0
+[ 4967.930969] init: Untracked pid 6804 exited with status 0
+[ 4967.951174] init: Untracked pid 6807 exited with status 0
+[ 4967.953167] init: Untracked pid 6809 exited with status 0
+[ 4967.990920] init: Untracked pid 6813 exited with status 0
+[ 4967.992215] init: Untracked pid 6815 exited with status 0
+[ 4968.015310] init: Untracked pid 6819 exited with status 0
+[ 4968.022882] init: Untracked pid 6821 exited with status 0
+[ 4982.575384] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 4998.431708] init: Untracked pid 6824 exited with status 0
+[ 4998.432779] init: Untracked pid 6826 exited with status 0
+[ 4998.501652] init: Untracked pid 6829 exited with status 0
+[ 4998.502915] init: Untracked pid 6831 exited with status 0
+[ 4998.528027] init: Untracked pid 6835 exited with status 0
+[ 4998.529338] init: Untracked pid 6837 exited with status 0
+[ 4998.551522] init: Untracked pid 6840 exited with status 0
+[ 4998.560103] init: Untracked pid 6842 exited with status 0
+[ 4998.760112] init: Untracked pid 6847 exited with status 0
+[ 4998.761625] init: Untracked pid 6849 exited with status 0
+[ 4998.797327] init: Untracked pid 6852 exited with status 0
+[ 4998.798582] init: Untracked pid 6854 exited with status 0
+[ 4998.829017] init: Untracked pid 6857 exited with status 0
+[ 4998.830263] init: Untracked pid 6859 exited with status 0
+[ 4998.838529] init: Untracked pid 6862 exited with status 0
+[ 4998.841048] init: Untracked pid 6864 exited with status 0
+[ 4998.858528] init: Untracked pid 6867 exited with status 0
+[ 4998.866373] init: Untracked pid 6869 exited with status 0
+[ 4998.894465] init: Untracked pid 6872 exited with status 0
+[ 4998.898015] init: Untracked pid 6874 exited with status 0
+[ 4998.913262] init: Untracked pid 6878 exited with status 0
+[ 4998.923201] init: Untracked pid 6880 exited with status 0
+[ 5000.956026] sysrq: SysRq : Show Blocked State
+[ 5000.957048]   task                        PC stack   pid father
+[ 5000.958421] Sched Debug Version: v0.11, 4.4.124+ #1
+[ 5000.959484] ktime                                   : 5000958.418320
+[ 5000.960868] sched_clk                               : 5000534.383455
+[ 5000.962112] cpu_clk                                 : 5000958.419433
+[ 5000.963556] jiffies                                 : 4295437392
+[ 5000.964807] sched_clock_stable()                    : 0
+[ 5000.965846] 
+[ 5000.966173] sysctl_sched
+[ 5000.966623]   .sysctl_sched_latency                    : 10.000000
+[ 5000.967645]   .sysctl_sched_min_granularity            : 2.250000
+[ 5000.968761]   .sysctl_sched_wakeup_granularity         : 2.000000
+[ 5000.970057]   .sysctl_sched_child_runs_first           : 0
+[ 5000.971113]   .sysctl_sched_features                   : 44859
+[ 5000.972342]   .sysctl_sched_tunable_scaling            : 0 (none)
+[ 5000.973609] 
+[ 5000.973944] cpu#0, 2496.251 MHz
+[ 5000.974580]   .nr_running                    : 2
+[ 5000.975419]   .load                          : 1024
+[ 5000.976250]   .nr_switches                   : 928644
+[ 5000.977222]   .nr_load_updates               : 221481
+[ 5000.978386]   .nr_uninterruptible            : 430
+[ 5000.979279]   .next_balance                  : 4295.437404
+[ 5000.980345]   .curr->pid                     : 1742
+[ 5000.981318]   .clock                         : 5000980.097189
+[ 5000.982357]   .clock_task                    : 5000980.097189
+[ 5000.983324]   .cpu_load[0]                   : 1003
+[ 5000.984148]   .cpu_load[1]                   : 1003
+[ 5000.984964]   .cpu_load[2]                   : 1003
+[ 5000.985896]   .cpu_load[3]                   : 1003
+[ 5000.986780]   .cpu_load[4]                   : 1003
+[ 5000.987880] 
+[ 5000.987880] cfs_rq[0]:/
+[ 5000.988736]   .exec_clock                    : 0.000000
+[ 5000.989904]   .MIN_vruntime                  : 493475.936519
+[ 5000.990332]   .min_vruntime                  : 493480.936519
+[ 5000.990332]   .max_vruntime                  : 493475.936519
+[ 5000.990332]   .spread                        : 0.000000
+[ 5000.990332]   .spread0                       : 0.000000
+[ 5000.990332]   .nr_spread_over                : 0
+[ 5000.990332]   .nr_running                    : 1
+[ 5000.990332]   .load                          : 1024
+[ 5000.990332]   .load_avg                      : 1003
+[ 5000.990332]   .runnable_load_avg             : 1003
+[ 5000.990332]   .util_avg                      : 0
+[ 5000.990332]   .removed_load_avg              : 0
+[ 5000.990332]   .removed_util_avg              : 0
+[ 5000.990332]   .tg_load_avg_contrib           : 0
+[ 5000.990332]   .tg_load_avg                   : 0
+[ 5000.990332] 
+[ 5000.990332] rt_rq[0]:/
+[ 5000.990332]   .rt_nr_running                 : 1
+[ 5000.990332]   .rt_throttled                  : 0
+[ 5000.990332]   .rt_time                       : 1000.043928
+[ 5000.990332]   .rt_runtime                    : 1000.000000
+[ 5000.990332] 
+[ 5000.990332] dl_rq[0]:
+[ 5000.990332]   .dl_nr_running                 : 0
+[ 5000.990332] 
+[ 5000.990332] runnable tasks:
+[ 5000.990332]             task   PID         tree-key  switches  prio     wait-time             sum-exec        sum-sleep
+[ 5000.990332] ----------------------------------------------------------------------------------------------------------
+[ 5000.990332]      ksoftirqd/0     3    493471.678584      4103   120         0.000000       317.862586         0.000000 /
+[ 5000.990332]     kworker/0:0H     5      3479.582772         8   100         0.000000         0.040758         0.000000 /
+[ 5000.990332]        rcu_sched     8    492955.473195       449   120         0.000000        14.703628         0.000000 /
+[ 5000.990332]           rcu_bh     9        17.569324         2   120         0.000000         0.000699         0.000000 /
+[ 5000.990332]      migration/0    10         0.000000       508     0         0.000000        25.774288         0.000000 /
+[ 5000.990332]               md   521       831.000493         2   100         0.000000         0.004992         0.000000 /
+[ 5000.990332]    fsnotify_mark   723    492953.703871         9   120         0.000000         0.218567         0.000000 /
+[ 5000.990332]           bioset   828      1279.284945         2   100         0.000000         0.004323         0.000000 /
+[ 5000.990332]           bioset   830      1285.299010         2   100         0.000000         0.014729         0.000000 /
+[ 5000.990332]           bioset   832      1291.312550         2   100         0.000000         0.014175         0.000000 /
+[ 5000.990332]           bioset   834      1297.314743         2   100         0.000000         0.002799         0.000000 /
+[ 5000.990332]           bioset   875      1307.944113         2   100         0.000000         0.022894         0.000000 /
+[ 5000.990332]           bioset   881      1341.012704         2   100         0.000000         0.022605         0.000000 /
+[ 5000.990332]           bioset   884      1356.054504         2   100         0.000000         0.023930         0.000000 /
+[ 5000.990332]           bioset   887      1380.102980         2   100         0.000000         0.023672         0.000000 /
+[ 5000.990332]           bioset   891      1386.124864         2   100         0.000000         0.022520         0.000000 /
+[ 5000.990332]           bioset   911      1416.840256         2   100         0.000000         0.015348         0.000000 /
+[ 5000.990332]           bioset   914      1425.857519         2   100         0.000000         0.018097         0.000000 /
+[ 5000.990332]        scsi_eh_1   953      1765.733709         4   120         0.000000         0.694237         0.000000 /
+[ 5000.990332]   dm_bufio_cache  1030      1501.605601         2   100         0.000000         0.025476         0.000000 /
+[ 5000.990332]           binder  1063      1602.904379         2   100         0.000000         0.024679         0.000000 /
+[ 5000.990332]    ipv6_addrconf  1097      1659.136238         2   100         0.000000         0.049408         0.000000 /
+[ 5000.990332]           bioset  1137      1783.503898         2   100         0.000000         0.025483         0.000000 /
+[ 5000.990332]          ueventd  1194    486774.066248       443   120         0.000000      4363.773953         0.000000 /
+[ 5000.990332]  vndservicemanag  1567      3007.061513        45   120         0.000000        13.719851         0.000000 /
+[ 5000.990332]    Binder:1569_2  1579    486773.889386       327   120         0.000000      1272.108637         0.000000 /
+[ 5000.990332]  drm@1.0-service  1625      3147.456417        96   120         0.000000        30.381045         0.000000 /
+[ 5000.990332]  allocator@2.0-s  1630     90949.618098       122   120         0.000000       187.226369         0.000000 /
+[ 5000.990332]  power@1.1-servi  1633    487945.568737       206   120         0.000000       155.267137         0.000000 /
+[ 5000.990332]      audioserver  1640    493476.002883       814   120         0.000000       152.549429         0.000000 /
+[ 5000.990332]        FastMixer  1712        -5.000000      4854    96         0.000000       539.708219         0.000000 /
+[ 5000.990332]  TimeCheckThread  2015    493475.780047      1413   101         0.000000       158.810319         0.000000 /
+[ 5000.990332]    Binder:1640_3  2696    493475.853585      1740   120         0.000000       739.812070         0.000000 /
+[ 5000.990332]   shell svc 6162  6163    188666.300406         4   120         0.000000         0.060036         0.000000 /
+[ 5000.990332]         kdmflush  1688      3249.979795         2   100         0.000000         0.026656         0.000000 /
+[ 5000.990332]           bioset  1698      3267.004523         2   100         0.000000         0.057831         0.000000 /
+[ 5000.990332]     kworker/0:1H  1731    491752.187591       683   100         0.000000        14.739588         0.000000 /
+[ 5000.990332]  ext4-rsv-conver  1734      3494.810604         2   100         0.000000         0.006598         0.000000 /
+[ 5000.990332] R surfaceflinger  1742         0.841001     13462    98         0.000000    179451.742172         0.000000 /
+[ 5000.990332]    Binder:1742_1  1773    493475.947817      2888   120         0.000000      2372.062069         0.000000 /
+[ 5000.990332]   appEventThread  1775         0.718696     10428    97         0.000000      1576.230816         0.000000 /
+[ 5000.990332]  ReferenceQueueD  6677    490058.595285         6   124         0.000000         0.110855         0.000000 /
+[ 5000.990332]   HeapTaskDaemon  6680    490058.409046         9   124         0.000000         0.125300         0.000000 /
+[ 5000.990332]  ReferenceQueueD  6510    374986.980280         9   124         0.000000         1.295920         0.000000 /
+[ 5000.990332]  FinalizerWatchd  6512    374994.048395         2   124         0.000000         1.744206         0.000000 /
+[ 5000.990332]    Binder:1747_1  1766      3549.203914         2   120         0.000000         0.915778         0.000000 /
+[ 5000.990332]    Binder:1747_3  1769      4361.577614         2   120         0.000000         0.506590         0.000000 /
+[ 5000.990332]    Binder:1748_2  1748     34012.883402        52   120         0.000000        20.677028         0.000000 /
+[ 5000.990332]    Binder:1748_4  1974     34012.721733        44   120         0.000000         7.093606         0.000000 /
+[ 5000.990332]         keystore  1749    172916.580131       318   120         0.000000        50.111752         0.000000 /
+[ 5000.990332]    Binder:1754_2  2499    365426.522959        43   120         0.000000        50.547568         0.000000 /
+[ 5000.990332]    Binder:1755_3  1770    220646.571475        15   120         0.000000         3.391257         0.000000 /
+[ 5000.990332]             rild  1802      4968.656337        10   120         0.000000         0.235652         0.000000 /
+[ 5000.990332]             rild  1804    486330.192894        68   120         0.000000        86.208142         0.000000 /
+[ 5000.990332]       dhcpserver  1890     12246.469728        17   120         0.000000        21.522880         0.000000 /
+[ 5000.990332]       AudioTrack  4852         0.000000       142    97         0.000000         8.421252         0.000000 /
+[ 5000.990332]  GAC_Executor[0]  2789     85402.058514        41   120         0.000000         8.056089         0.000000 /
+[ 5000.990332]         Primes-1  2923     11807.807783        16   120         0.000000         3.972470         0.000000 /
+[ 5000.990332]         Primes-2  2974     11890.823844         8   120         0.000000         1.810066         0.000000 /
+[ 5000.990332]   SpellChecker-1  5164     83993.240226         6   125         0.000000         1.233641         0.000000 /
+[ 5000.990332]   Signal Catcher  2049    493180.648226       132   120         0.000000       103.311885         0.000000 /
+[ 5000.990332]  pool-1-thread-1  2266    221494.892336       134   120         0.000000        49.968632         0.000000 /
+[ 5000.990332]  pool-6-thread-1  2540      7249.762126        25   120         0.000000         0.979765         0.000000 /
+[ 5000.990332]  FinalizerDaemon  5220     92092.040369         1   124         0.000000         0.253480         0.000000 /
+[ 5000.990332]  ReferenceQueueD  2215    486552.422126        40   124         0.000000        87.924472         0.000000 /
+[ 5000.990332]      kworker/0:2  2341    490658.968612       503   120         0.000000        57.499335         0.000000 /
+[ 5000.990332]  FinalizerDaemon  2428    493471.510800        56   124         0.000000       137.501970         0.000000 /
+[ 5000.990332]     FileObserver  2457      5809.549817         1   120         0.000000         0.233688         0.000000 /
+[ 5000.990332]  queued-work-loo  2501    220168.592449        96   118         0.000000        15.460090         0.000000 /
+[ 5000.990332]      highpool[3]  3107    490333.463149      2207   129         0.000000      1354.762705         0.000000 /
+[ 5000.990332]  GeofencerStateM  3191     25849.918036       126   120         0.000000        20.993550         0.000000 /
+[ 5000.990332]        Thread-12  3305     13438.627841         9   130         0.000000         0.325288         0.000000 /
+[ 5000.990332]        Thread-13  3306     93723.564639        18   130         0.000000        19.304411         0.000000 /
+[ 5000.990332]        Thread-16  3309    146080.901109       106   130         0.000000        37.839336         0.000000 /
+[ 5000.990332]        GCMReader  5464    373169.702116        77   120         0.000000       848.184966         0.000000 /
+[ 5000.990332]    Binder:2418_D  6072    487530.433960       957   120         0.000000       371.632884         0.000000 /
+[ 5000.990332]  Jit thread pool  2595    491497.362248      2717   129         0.000000      2334.634707         0.000000 /
+[ 5000.990332]    Binder:2590_1  2602    242683.616949       868   120         0.000000      1496.102885         0.000000 /
+[ 5000.990332]    Binder:2590_2  2603    242678.686450       611   120         0.000000       432.556990         0.000000 /
+[ 5000.990332]    Profile Saver  2614    490539.370087       190   129         0.000000       478.787311         0.000000 /
+[ 5000.990332]    Binder:2590_5  3175    242686.077819       573   120         0.000000       304.418030         0.000000 /
+[ 5000.990332]      highpool[3]  3589    490621.707756      1225   129         0.000000      1869.732473         0.000000 /
+[ 5000.990332]        Thread-16  3738     83843.106104        46   130         0.000000        21.833374         0.000000 /
+[ 5000.990332]        Thread-17  3739     88559.525885        91   130         0.000000        14.351085         0.000000 /
+[ 5000.990332]    Binder:2590_8  3807    242683.490220       430   120         0.000000       386.201165         0.000000 /
+[ 5000.990332]  ConnectivityThr  3996     18786.491602         2   120         0.000000         0.157489         0.000000 /
+[ 5000.990332]  ThreadPoolForeg  4007    491752.464073        50   120         0.000000       221.040476         0.000000 /
+[ 5000.990332]               DG  4041    172335.635477        61   120         0.000000        38.745652         0.000000 /
+[ 5000.990332]       lowpool[4]  4776    490603.971998       805   130         0.000000      3336.803944         0.000000 /
+[ 5000.990332]     grpc-timer-0  5636    324024.030426       163   120         0.000000      3302.240535         0.000000 /
+[ 5000.990332]  Jit thread pool  2625     19060.533368        27   129         0.000000        12.396030         0.000000 /
+[ 5000.990332]   Signal Catcher  2626      9312.751889         1   120         0.000000         0.311069         0.000000 /
+[ 5000.990332]  ReferenceQueueD  2628    491755.324221       421   124         0.000000       262.233878         0.000000 /
+[ 5000.990332]    Binder:2620_1  2632    493460.199648       561   120         0.000000       342.621364         0.000000 /
+[ 5000.990332]    Binder:2620_3  2634    493460.364721       727   120         0.000000       266.535251         0.000000 /
+[ 5000.990332]    Binder:2620_4  2843    493460.372452       693   120         0.000000       309.636931         0.000000 /
+[ 5000.990332]    Binder:2620_6  2899     20526.781153       344   120         0.000000        42.171176         0.000000 /
+[ 5000.990332]    Binder:2620_8  3284     71077.353108       699   120         0.000000       107.815499         0.000000 /
+[ 5000.990332]   Binder:2620_10  3935    493460.376597       355   120         0.000000      1047.541473         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  2657     94575.845301        40   120         0.000000        79.263253         0.000000 /
+[ 5000.990332]   HeapTaskDaemon  2661      9568.584474         6   124         0.000000         0.554258         0.000000 /
+[ 5000.990332]    Profile Saver  2731     13844.089847        21   129         0.000000         2.335079         0.000000 /
+[ 5000.990332]  ReferenceQueueD  2680      9646.541840         5   124         0.000000         0.096511         0.000000 /
+[ 5000.990332]  Jit thread pool  2748      9988.484277         2   129         0.000000         0.235822         0.000000 /
+[ 5000.990332]   Signal Catcher  2754      9992.857677         2   120         0.000000         0.180958         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  2755     94571.623836        42   120         0.000000        30.150853         0.000000 /
+[ 5000.990332]  FinalizerDaemon  2757      9996.607643         1   124         0.000000         0.112323         0.000000 /
+[ 5000.990332]    Profile Saver  2804     14381.174840         6   129         0.000000         2.485591         0.000000 /
+[ 5000.990332]  s.nexuslauncher  2763    490004.559536      2390   120         0.000000      3657.072799         0.000000 /
+[ 5000.990332]  Jit thread pool  2776    489997.379358       597   129         0.000000       571.995469         0.000000 /
+[ 5000.990332]    Binder:2763_4  2799    369161.220519       313   120         0.000000       194.305830         0.000000 /
+[ 5000.990332]    Profile Saver  2803    221780.804568        86   129         0.000000       285.893227         0.000000 /
+[ 5000.990332]  earchbox:search  2771    490392.474519      7447   120         0.000000     23281.233354         0.000000 /
+[ 5000.990332]   Signal Catcher  2793     10023.602005         1   120         0.000000         0.293409         0.000000 /
+[ 5000.990332]  FinalizerDaemon  2797    230450.407483       146   124         0.000000       120.323152         0.000000 /
+[ 5000.990332]    Binder:2771_3  2806    490333.897679       240   120         0.000000       155.978429         0.000000 /
+[ 5000.990332]    Binder:2771_4  2926    282103.947689       449   120         0.000000       197.812921         0.000000 /
+[ 5000.990332]    Binder:2771_5  2953    490391.820622       265   120         0.000000        98.274191         0.000000 /
+[ 5000.990332]  magnifier pixel  3100     11812.851987         2   120         0.000000         0.865868         0.000000 /
+[ 5000.990332]  GAC_Executor[0]  3246    228216.930574       143   120         0.000000        56.501135         0.000000 /
+[ 5000.990332]  HotwordDetector  3285    219308.959624       993   120         0.000000       731.001072         0.000000 /
+[ 5000.990332]    Binder:2771_6  4249    282110.077064       338   120         0.000000       138.285360         0.000000 /
+[ 5000.990332]    Binder:2771_8  5465    440933.567238       442   120         0.000000        81.000215         0.000000 /
+[ 5000.990332]  NonUserFacing11  6699    490399.654903         9   130         0.000000         6.197432         0.000000 /
+[ 5000.990332]  FinalizerWatchd  2994    491773.067023       113   124         0.000000       110.393901         0.000000 /
+[ 5000.990332]    Profile Saver  3025     17481.832557        11   129         0.000000         4.424223         0.000000 /
+[ 5000.990332]    Binder:2982_4  3034    369174.721545       440   120         0.000000        26.015811         0.000000 /
+[ 5000.990332]    Binder:2982_9  5245    369174.676292      2749   120         0.000000      1787.445104         0.000000 /
+[ 5000.990332]    Binder:2982_A  5620    369174.599846      4393   120         0.000000       851.430576         0.000000 /
+[ 5000.990332]    Binder:2982_B  5622    369174.723840       730   120         0.000000       152.036095         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  3635     94573.240558        22   120         0.000000        24.289898         0.000000 /
+[ 5000.990332]  queued-work-loo  3679    220765.528554        51   118         0.000000        11.271913         0.000000 /
+[ 5000.990332]  GAC_Executor[0]  3690     18227.732538        13   120         0.000000         1.005461         0.000000 /
+[ 5000.990332]    webrtc-thread  3704     17505.723526       261   120         0.000000        48.578769         0.000000 /
+[ 5000.990332]  network_thread   3710     17504.562771         7   120         0.000000         0.803476         0.000000 /
+[ 5000.990332]         Thread-3  3711     17509.235078        72   120         0.000000        25.084187         0.000000 /
+[ 5000.990332]  signaling_threa  3712     17504.755864        13   120         0.000000         2.621850         0.000000 /
+[ 5000.990332]  AudioDeviceBuff  3716     17467.223883         1   120         0.000000         0.091868         0.000000 /
+[ 5000.990332]  AudioPortEventH  3717     17500.868158         1   120         0.000000         0.346387         0.000000 /
+[ 5000.990332]  Jit thread pool  3963    489267.953225        36   129         0.000000        25.125211         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  3966     94571.607130        25   120         0.000000         9.933754         0.000000 /
+[ 5000.990332]  ReferenceQueueD  3967     18690.163604         5   124         0.000000         0.061191         0.000000 /
+[ 5000.990332]    Binder:3958_1  3971     18844.926440         5   120         0.000000         0.364812         0.000000 /
+[ 5000.990332]    Binder:3958_2  3972     18844.927530         8   120         0.000000         0.974039         0.000000 /
+[ 5000.990332]    Binder:3958_3  3973    488781.883693        16   120         0.000000        10.631551         0.000000 /
+[ 5000.990332]    Profile Saver  3979     22650.344295         3   129         0.000000         2.037611         0.000000 /
+[ 5000.990332]    Binder:3958_4  4005    488777.823707        71   120         0.000000        68.090288         0.000000 /
+[ 5000.990332]  queued-work-loo  4006    489405.021221        32   118         0.000000         6.283024         0.000000 /
+[ 5000.990332]  ConnectivityThr  4012     18824.022848         1   120         0.000000         0.074184         0.000000 /
+[ 5000.990332]  WifiTracker{9b1  4014     26175.885470        56   130         0.000000         9.548110         0.000000 /
+[ 5000.990332]    Binder:3958_5  4016    488778.239394        77   120         0.000000       186.239462         0.000000 /
+[ 5000.990332]  e.myapplication  4853    219923.057259       507   120         0.000000       520.446400         0.000000 /
+[ 5000.990332]  ReferenceQueueD  4862     30604.593704         7   124         0.000000         0.581851         0.000000 /
+[ 5000.990332]  FinalizerDaemon  5602    230722.188588         9   124         0.000000         3.551445         0.000000 /
+[ 5000.990332]   HeapTaskDaemon  5604    232035.866848        11   124         0.000000        82.033314         0.000000 /
+[ 5000.990332]      kworker/0:0  6091    490658.932802       549   120         0.000000       362.547620         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  6224    220187.464746         4   120         0.000000         0.506949         0.000000 /
+[ 5000.990332]  ReferenceQueueD  6225    228027.167063         8   124         0.000000         0.875200         0.000000 /
+[ 5000.990332]    Binder:6212_1  6230    220272.989794        16   120         0.000000         3.856281         0.000000 /
+[ 5000.990332]    Profile Saver  6299    252455.906062         6   129         0.000000        15.675163         0.000000 /
+[ 5000.990332]  pool-2-thread-1  6305    224821.985177       340   120         0.000000       152.647683         0.000000 /
+[ 5000.990332]  Jit thread pool  6474    321792.641831         2   129         0.000000         2.746742         0.000000 /
+[ 5000.990332]   HeapTaskDaemon  6480    325428.718791         8   124         0.000000        59.555149         0.000000 /
+[ 5000.990332]    Binder:6469_3  6483    399705.969689        18   120         0.000000       125.459117         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  6516    375137.231023         4   120         0.000000        42.648100         0.000000 /
+[ 5000.990332]  FinalizerWatchd  6519    472721.665412        10   124         0.000000       102.951175         0.000000 /
+[ 5000.990332]   HeapTaskDaemon  6520    472040.526975       158   124         0.000000      3569.917892         0.000000 /
+[ 5000.990332]    Binder:6509_3  6524    460340.144572        35   120         0.000000       224.177873         0.000000 /
+[ 5000.990332]        Thread-10  6537    393155.341405         9   130         0.000000         1.983185         0.000000 /
+[ 5000.990332]        network-4  6547    396900.609960        14   130         0.000000         4.739905         0.000000 /
+[ 5000.990332]     kworker/u9:4  6523    489901.721682       108   100         0.000000       103.064662         0.000000 /
+[ 5000.990332]  Jit thread pool  6640    490225.320357         8   129         0.000000         4.868675         0.000000 /
+[ 5000.990332]   Signal Catcher  6641    489564.799030         2   120         0.000000         0.129644         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  6642    489573.169151         5   120         0.000000         0.267438         0.000000 /
+[ 5000.990332]  FinalizerDaemon  6645    491712.112325         5   124         0.000000         0.523381         0.000000 /
+[ 5000.990332]    Binder:6630_1  6654    490004.014561         2   120         0.000000         0.850203         0.000000 /
+[ 5000.990332]    Profile Saver  6659    491718.700009         2   129         0.000000         1.970835         0.000000 /
+[ 5000.990332]  AsyncQueryWorke  6663    489953.464622         8   120         0.000000         1.368430         0.000000 /
+[ 5000.990332]  GAC_Executor[0]  6666    490058.270493        14   120         0.000000         1.767118         0.000000 /
+[ 5000.990332]         Thread-2  6668    490016.374024         9   130         0.000000         0.516494         0.000000 /
+[ 5000.990332]         Thread-4  6670    490018.858626         3   130         0.000000         0.195134         0.000000 /
+[ 5000.990332]         Thread-5  6671    490021.872403         2   130         0.000000         0.169346         0.000000 /
+[ 5000.990332]     BACKGROUND_0  6675    490326.257228        15   121         0.000000         2.212179         0.000000 /
+[ 5000.990332]  ADB-JDWP Connec  6649    489573.278389         6   120         0.000000         0.376631         0.000000 /
+[ 5000.990332]    Binder:6635_1  6656    489953.880487        12   120         0.000000         1.890377         0.000000 /
+[ 5000.990332]    Profile Saver  6658    491721.299172         3   129         0.000000         2.772450         0.000000 /
+[ 5000.990332]  droid.deskclock  6676    491752.817327       154   120         0.000000        49.437154         0.000000 /
+[ 5000.990332]    Binder:6676_1  6688    493460.159708        10   120         0.000000         2.018967         0.000000 /
+[ 5000.990332]    Binder:6676_2  6689    493461.131209        11   120         0.000000         2.096393         0.000000 /
+[ 5000.990332]    Profile Saver  6690    491757.187096         2   129         0.000000         1.406358         0.000000 /
+[ 5000.990332]  queued-work-loo  6695    490411.154126        10   118         0.000000         1.222181         0.000000 /
+[ 5000.990332]     app-indexing  6707    491221.583999        13   130         0.000000         9.302917         0.000000 /
+[ 5000.990332]  GAC_Executor[1]  6709    490571.670684         3   120         0.000000         1.041284         0.000000 /
+[ 5000.990332]      kworker/0:1  6710    493475.936519         9   120         0.000000         0.240852         0.000000 /
+[ 5001.486127] 
+[ 5001.486813] cpu#1, 2496.251 MHz
+[ 5001.487748]   .nr_running                    : 1
+[ 5001.488948]   .load                          : 1024
+[ 5001.490236]   .nr_switches                   : 944870
+[ 5001.491322]   .nr_load_updates               : 220612
+[ 5001.492516]   .nr_uninterruptible            : 314
+[ 5001.493626]   .next_balance                  : 4295.437484
+[ 5001.494886]   .curr->pid                     : 2070
+[ 5001.495929]   .clock                         : 5001491.317706
+[ 5001.497218]   .clock_task                    : 5001491.317706
+[ 5001.498424]   .cpu_load[0]                   : 1016
+[ 5001.499546]   .cpu_load[1]                   : 855
+[ 5001.500658]   .cpu_load[2]                   : 682
+[ 5001.501732]   .cpu_load[3]                   : 419
+[ 5001.503030]   .cpu_load[4]                   : 234
+[ 5001.504077] 
+[ 5001.504077] cfs_rq[1]:/
+[ 5001.504879]   .exec_clock                    : 0.000000
+[ 5001.506208]   .MIN_vruntime                  : 0.000001
+[ 5001.507304]   .min_vruntime                  : 534768.950172
+[ 5001.508444]   .max_vruntime                  : 0.000001
+[ 5001.509466]   .spread                        : 0.000000
+[ 5001.510633]   .spread0                       : 41288.013653
+[ 5001.510637]   .nr_spread_over                : 0
+[ 5001.510637]   .nr_running                    : 1
+[ 5001.510637]   .load                          : 1024
+[ 5001.510637]   .load_avg                      : 1043
+[ 5001.510637]   .runnable_load_avg             : 1016
+[ 5001.510637]   .util_avg                      : 1008
+[ 5001.510637]   .removed_load_avg              : 0
+[ 5001.510637]   .removed_util_avg              : 0
+[ 5001.510637]   .tg_load_avg_contrib           : 0
+[ 5001.510637]   .tg_load_avg                   : 0
+[ 5001.510637] 
+[ 5001.510637] rt_rq[1]:/
+[ 5001.510637]   .rt_nr_running                 : 0
+[ 5001.510637]   .rt_throttled                  : 0
+[ 5001.510637]   .rt_time                       : 4.464198
+[ 5001.510637]   .rt_runtime                    : 850.000000
+[ 5001.510637] 
+[ 5001.510637] dl_rq[1]:
+[ 5001.510637]   .dl_nr_running                 : 0
+[ 5001.510637] 
+[ 5001.510637] runnable tasks:
+[ 5001.510637]             task   PID         tree-key  switches  prio     wait-time             sum-exec        sum-sleep
+[ 5001.510637] ----------------------------------------------------------------------------------------------------------
+[ 5001.510637]         kthreadd     2    508079.044936       185   120         0.000000       170.732575         0.000000 /
+[ 5001.510637]      migration/1    11         0.000000       434     0         0.000000        30.501249         0.000000 /
+[ 5001.510637]      ksoftirqd/1    12    534753.397486      4856   120         0.000000       785.646102         0.000000 /
+[ 5001.510637]     kworker/1:0H    14      2291.540445         9   100         0.000000         0.032883         0.000000 /
+[ 5001.510637]             perf    26        22.959478         2   100         0.000000         0.008066         0.000000 /
+[ 5001.510637]          ata_sff   501       445.788562         2   100         0.000000         0.000000         0.000000 /
+[ 5001.510637]         cfg80211   532       610.790067         2   100         0.000000         0.001594         0.000000 /
+[ 5001.510637]           bioset   827      1072.538566         2   100         0.000000         0.012185         0.000000 /
+[ 5001.510637]           bioset   829      1078.555441         2   100         0.000000         0.017431         0.000000 /
+[ 5001.510637]           bioset   831      1084.574834         2   100         0.000000         0.020227         0.000000 /
+[ 5001.510637]           bioset   833      1090.592335         2   100         0.000000         0.018181         0.000000 /
+[ 5001.510637]           bioset   840      1096.606049         2   100         0.000000         0.014274         0.000000 /
+[ 5001.510637]           bioset   894      1187.326722         2   100         0.000000         0.018625         0.000000 /
+[ 5001.510637]           bioset   897      1205.357669         2   100         0.000000         0.010967         0.000000 /
+[ 5001.510637]           bioset   905      1241.421884         2   100         0.000000         0.014861         0.000000 /
+[ 5001.510637]           bioset   918      1276.216507         2   100         0.000000         0.034417         0.000000 /
+[ 5001.510637]        scsi_eh_0   948      1633.458829         4   120         0.000000         0.465544         0.000000 /
+[ 5001.510637]  ext4-rsv-conver  1191      1671.069660         2   100         0.000000         0.020727         0.000000 /
+[ 5001.510637]             init  1192      8192.094122        46   120         0.000000         9.342955         0.000000 /
+[ 5001.510637]     logd.control  1574      8494.390051        11   130         0.000000         0.905575         0.000000 /
+[ 5001.510637]   servicemanager  1565    534223.527746      7588   120         0.000000      3876.264885         0.000000 /
+[ 5001.510637]  hwservicemanage  1566    533869.417168       586   120         0.000000       173.924970         0.000000 /
+[ 5001.510637]  keymaster@3.0-s  1568    184380.968931       125   120         0.000000        38.030346         0.000000 /
+[ 5001.510637]    Binder:1569_5  2344      8193.229130         5   120         0.000000         0.544197         0.000000 /
+[ 5001.510637]  broadcastradio@  1621      1956.834332        25   120         0.000000        15.245145         0.000000 /
+[ 5001.510637]  provider@2.4-se  1622    534047.181051       201   120         0.000000        58.354123         0.000000 /
+[ 5001.510637]  EmulatedCameraH  1675    534047.116100         5   120         0.000000         0.162024         0.000000 /
+[ 5001.510637]  HwBinder:1622_1  1780    534047.133127        11   120         0.000000         1.697092         0.000000 /
+[ 5001.510637]  HwBinder:1622_2  6774    534047.118974         7   120         0.000000         1.479702         0.000000 /
+[ 5001.510637]  drm@1.1-service  1626      1957.534093        53   120         0.000000        27.078642         0.000000 /
+[ 5001.510637]  gnss@1.0-servic  1629    145288.825237       107   120         0.000000        45.264968         0.000000 /
+[ 5001.510637]  HwBinder:1630_1  1682    232650.692779       305   120         0.000000      1004.584519         0.000000 /
+[ 5001.510637]  HwBinder:1630_2  1683      3544.688184        19   120         0.000000        24.946123         0.000000 /
+[ 5001.510637]  sensors@1.0-ser  1634    534753.428876     73805   120         0.000000     15849.387571         0.000000 /
+[ 5001.510637]  HwBinder:1634_1  1973        -4.232122     79605    89         0.000000     16264.204121         0.000000 /
+[ 5001.510637]  wifi@1.0-servic  1635    534223.736214      3041   120         0.000000      4919.800688         0.000000 /
+[ 5001.510637]  HwBinder:1640_1  1703    534102.643346        15   120         0.000000         1.181877         0.000000 /
+[ 5001.510637]  HwBinder:1640_2  1704    534102.634474        16   120         0.000000         2.067585         0.000000 /
+[ 5001.510637]          ApmTone  1706    534102.627905         7   104         0.000000         0.209211         0.000000 /
+[ 5001.510637]         ApmAudio  1707    534102.627889        46   104         0.000000         1.495239         0.000000 /
+[ 5001.510637]        ApmOutput  1708    534102.627892        37   104         0.000000         4.212371         0.000000 /
+[ 5001.510637]    Binder:1640_1  1709    534102.631042       275   120         0.000000       752.462117         0.000000 /
+[ 5001.510637]    Binder:1640_2  1710    534102.630466       235   120         0.000000        12.262444         0.000000 /
+[ 5001.510637]       AudioOut_D  1713    534102.628985      4179   101         0.000000       511.484187         0.000000 /
+[ 5001.510637]  thermalserviced  1643      1995.240566        21   120         0.000000        10.687172         0.000000 /
+[ 5001.510637]      qemu socket  1655    107804.982724        28   120         0.000000       384.381484         0.000000 /
+[ 5001.510637]           traced  1650      2016.155752        12   120         0.000000         8.510979         0.000000 /
+[ 5001.510637]           traced  1658    533858.060654       191   120         0.000000      1107.630644         0.000000 /
+[ 5001.510637]    traced_probes  1651      2016.861949        16   120         0.000000        12.036565         0.000000 /
+[ 5001.510637]            mdnsd  1661     96808.856010       101   120         0.000000        39.043037         0.000000 /
+[ 5001.510637]     kworker/u9:1  1719    533835.542610      5385   100         0.000000      2343.348329         0.000000 /
+[ 5001.510637]     kworker/1:1H  1727    533835.541583       569   100         0.000000        11.793417         0.000000 /
+[ 5001.510637]      jbd2/dm-0-8  1733    533835.940421     10491   120         0.000000      1262.541486         0.000000 /
+[ 5001.510637]    sfEventThread  1776         0.718696     10440    97         0.000000      1128.756170         0.000000 /
+[ 5001.510637]             main  1743    508433.589427      2513   120         0.000000      2072.945778         0.000000 /
+[ 5001.510637]  FinalizerDaemon  6678    506239.998896         3   124         0.000000         0.146928         0.000000 /
+[ 5001.510637]  FinalizerWatchd  6679    506239.998294         6   124         0.000000         0.136656         0.000000 /
+[ 5001.510637]             main  1744    508076.657236      1031   120         0.000000      1255.787830         0.000000 /
+[ 5001.510637]    Binder:1748_3  1967     33875.687491       270   120         0.000000        69.085699         0.000000 /
+[ 5001.510637]   mediadrmserver  1750    534178.703816        42   120         0.000000        30.602994         0.000000 /
+[ 5001.510637]    Binder:1751_2  2076    534183.408103       152   120         0.000000        18.584684         0.000000 /
+[ 5001.510637]      mediaserver  1753    534222.843340       448   120         0.000000        84.537130         0.000000 /
+[ 5001.510637]    Binder:1753_5  6877    534222.652914         3   120         0.000000         0.268930         0.000000 /
+[ 5001.510637]    Binder:1754_2  1754    336169.313267       232   120         0.000000       109.228343         0.000000 /
+[ 5001.510637]             netd  1796    533868.773492       261   120         0.000000      3443.383230         0.000000 /
+[ 5001.510637]             netd  1813    502756.777285       136   120         0.000000       333.214352         0.000000 /
+[ 5001.510637]             netd  1816    506175.610897       974   120         0.000000       664.004270         0.000000 /
+[ 5001.510637]    Binder:1755_2  1755      2382.644285        18   120         0.000000        14.369681         0.000000 /
+[ 5001.510637]    Binder:1755_1  1768      2389.100904         4   120         0.000000         0.660210         0.000000 /
+[ 5001.510637]         storaged  1789    533872.280600       408   130         0.000000      2466.547728         0.000000 /
+[ 5001.510637]    Binder:1756_1  1792      8247.939466         6   130         0.000000         1.503409         0.000000 /
+[ 5001.510637]  HwBinder:1756_1  1989    503406.056595        41   130         0.000000       463.532643         0.000000 /
+[ 5001.510637]  HwBinder:1758_3  2106    534227.657055       121   120         0.000000        27.760403         0.000000 /
+[ 5001.510637]  HwBinder:1758_5  2238    534226.538311        72   120         0.000000        21.216584         0.000000 /
+[ 5001.510637]             rild  1801    505115.080975        62   120         0.000000         7.631902         0.000000 /
+[ 5001.510637]       tombstoned  1763    534223.157560       168   120         0.000000        27.651469         0.000000 /
+[ 5001.510637]  iptables-restor  1794    336015.081994       148   120         0.000000        97.341594         0.000000 /
+[ 5001.510637]  ip6tables-resto  1795    336169.844342       107   120         0.000000        83.146783         0.000000 /
+[ 5001.510637]         createns  1841      2481.687137         1   120         0.000000         0.064468         0.000000 /
+[ 5001.510637]           netmgr  1848    533859.821760      1010   120         0.000000      1763.763795         0.000000 /
+[ 5001.510637]   Signal Catcher  1901    533950.966684       687   120         0.000000       552.038922         0.000000 /
+[ 5001.510637]  ADB-JDWP Connec  1902    533878.828492        37   120         0.000000        12.793335         0.000000 /
+[ 5001.510637]   HeapTaskDaemon  1906    533878.954393      1436   124         0.000000     17178.701207         0.000000 /
+[ 5001.510637]    Binder:1896_1  1912    533878.717287      8109   120         0.000000      2580.706356         0.000000 /
+[ 5001.510637]    Binder:1896_2  1913    533878.710401      9986   120         0.000000      3612.147109         0.000000 /
+[ 5001.510637]       android.ui  1920    533878.637828     87826   116         0.000000     16004.055544         0.000000 /
+[ 5001.510637]     FileObserver  1924    533878.726308        81   120         0.000000        37.474679         0.000000 /
+[ 5001.510637]  BatteryStats_wa  1930    533878.668381         7   118         0.000000         0.812852         0.000000 /
+[ 5001.510637]     android.anim  1968    509113.640145      2455   116         0.000000      2547.116040         0.000000 /
+[ 5001.510637]  HwBinder:1896_1  1972    533878.690825        62   120         0.000000         2.407130         0.000000 /
+[ 5001.510637]  SensorEventAckR  1975    533878.601656        17   112         0.000000        42.071218         0.000000 /
+[ 5001.510637]  HealthServiceRe  1979    533938.595904        15   120         0.000000         0.958781         0.000000 /
+[ 5001.510637]  AccountManagerS  1982    533938.563396        23   118         0.000000         6.479971         0.000000 /
+[ 5001.510637]  SettingsProvide  1984    533938.700293        95   130         0.000000       132.416335         0.000000 /
+[ 5001.510637]     AlarmManager  1986    533878.705705       636   120         0.000000      6086.615662         0.000000 /
+[ 5001.510637]   window_tracing  1987      3010.912162         2   120         0.000000         0.086716         0.000000 /
+[ 5001.510637]  InputDispatcher  1990    533878.606500      1371   112         0.000000       442.216846         0.000000 /
+[ 5001.510637]      InputReader  1991    533878.602767       474   112         0.000000       962.782322         0.000000 /
+[ 5001.510637]  NetworkWatchlis  1992    533938.701643       364   130         0.000000       558.688491         0.000000 /
+[ 5001.510637]  StorageManagerS  1993    533938.566511        27   120         0.000000         6.184872         0.000000 /
+[ 5001.510637]         Thread-2  1995    533878.763547       101   120         0.000000      1275.737119         0.000000 /
+[ 5001.510637]    NetdConnector  1996    533878.754208       505   120         0.000000      3193.950686         0.000000 /
+[ 5001.510637]  WifiStateMachin  2002    534224.219428      7789   120         0.000000     20397.890272         0.000000 /
+[ 5001.510637] R       watchdog  2070    534768.950172       607   120         0.000000      3117.352524         0.000000 /
+[ 5001.510637]       AudioTrack  5725         0.000000        25    97         0.000000         1.624315         0.000000 /
+[ 5001.510637]    Binder:1931_1  1932    534075.684714        12   120         0.000000         0.962075         0.000000 /
+[ 5001.510637]    Binder:1931_2  1933    534075.673844         9   120         0.000000         0.456693         0.000000 /
+[ 5001.510637]  HwBinder:1931_3  5726        -4.058801      1006    97         0.000000      1020.716676         0.000000 /
+[ 5001.510637]    Binder:1931_3  6780    534075.670348         8   120         0.000000         0.658390         0.000000 /
+[ 5001.510637]  putmethod.latin  2035    508585.846643      2239   120         0.000000      1461.711246         0.000000 /
+[ 5001.510637]  Jit thread pool  2045    508559.043864      1501   129         0.000000      1215.609806         0.000000 /
+[ 5001.510637]  ADB-JDWP Connec  2048    508558.000927        31   120         0.000000        30.691186         0.000000 /
+[ 5001.510637]   HeapTaskDaemon  2057    508558.155359       399   124         0.000000       465.989422         0.000000 /
+[ 5001.510637]    Binder:2035_1  2059    508558.041141       168   120         0.000000        75.156662         0.000000 /
+[ 5001.510637]    Binder:2035_2  2064    508557.971558        28   120         0.000000         6.158122         0.000000 /
+[ 5001.510637]    Binder:2035_3  2069    508558.017893        58   120         0.000000         7.087643         0.000000 /
+[ 5001.510637]    Profile Saver  2075    508558.711311        65   129         0.000000       255.000607         0.000000 /
+[ 5001.510637]  queued-work-loo  2115    508585.726414       122   118         0.000000        40.358082         0.000000 /
+[ 5001.510637]    Binder:2035_4  2350    508557.999995        76   120         0.000000        22.652419         0.000000 /
+[ 5001.510637]  GoogleApiHandle  2753    508585.842713       119   129         0.000000        53.669670         0.000000 /
+[ 5001.510637]   MetricsManager  2762    508588.294374       432   139         0.000000       127.958141         0.000000 /
+[ 5001.510637]      AnrDetector  2873    508585.960531        32   131         0.000000         3.072114         0.000000 /
+[ 5001.510637]   NativeLogger-1  2882    508567.029645        10   131         0.000000         4.008253         0.000000 /
+[ 5001.510637]   DwldManWrapper  2885    508585.966291         4   130         0.000000         0.683024         0.000000 /
+[ 5001.510637]   DecoderWrapper  3145    508585.774262       223   122         0.000000       276.517321         0.000000 /
+[ 5001.510637]    Binder:2035_5  4882    508565.375873        61   120         0.000000       117.086716         0.000000 /
+[ 5001.510637]     RenderThread  5149    508585.743643       248   116         0.000000       306.159549         0.000000 /
+[ 5001.510637]  ICEventLogger-1  5165     81841.283567         3   131         0.000000         0.891332         0.000000 /
+[ 5001.510637]  ndroid.systemui  2040    508449.364160      7267   120         0.000000     31995.067306         0.000000 /
+[ 5001.510637]  Jit thread pool  2046    508450.348221      1050   129         0.000000      3769.063652         0.000000 /
+[ 5001.510637]  ADB-JDWP Connec  2050    508449.351657        29   120         0.000000         9.578948         0.000000 /
+[ 5001.510637]   HeapTaskDaemon  2058    508449.605562       344   124         0.000000       537.568545         0.000000 /
+[ 5001.510637]    Binder:2040_1  2060    508449.357864       394   120         0.000000       598.982603         0.000000 /
+[ 5001.510637]    Binder:2040_2  2062    508449.298984       245   120         0.000000        95.828517         0.000000 /
+[ 5001.510637]    Binder:2040_3  2067    508449.332046       581   120         0.000000      2675.579252         0.000000 /
+[ 5001.510637]    Profile Saver  2086    508450.372760       207   129         0.000000      1474.947869         0.000000 /
+[ 5001.510637]  smartspace-back  2229    508449.461462        14   120         0.000000         2.882447         0.000000 /
+[ 5001.510637]        SoundPool  2274    508449.369613         7   120         0.000000         0.385350         0.000000 /
+[ 5001.510637]  SoundPoolThread  2275    508449.308072       734   120         0.000000        19.280186         0.000000 /
+[ 5001.510637]  Recents-TaskRes  2283    508451.393479         9   130         0.000000         0.364965         0.000000 /
+[ 5001.510637]       recents.fg  2287    508449.358067        50   120         0.000000        13.368315         0.000000 /
+[ 5001.510637]  HwBinder:2040_1  2289    508449.165402        84   104         0.000000         3.502655         0.000000 /
+[ 5001.510637]     async_sensor  2315    508449.354080         9   120         0.000000         0.384209         0.000000 /
+[ 5001.510637]    Binder:2040_4  2321    508449.294031       377   120         0.000000       355.351774         0.000000 /
+[ 5001.510637]  VolumeDialogCon  2348    508449.329967        93   120         0.000000       113.166842         0.000000 /
+[ 5001.510637]  queued-work-loo  2365    508449.306578         8   118         0.000000         0.954785         0.000000 /
+[ 5001.510637]  ConnectivityThr  2368    508449.343722        24   120         0.000000         4.878141         0.000000 /
+[ 5001.510637]  WifiTracker{428  2369    508451.049798         4   130         0.000000         0.301292         0.000000 /
+[ 5001.510637]    Binder:2040_5  2440    508449.366454       423   120         0.000000       137.166436         0.000000 /
+[ 5001.510637]         Keyboard  2448    508450.788910        12   130         0.000000         1.657270         0.000000 /
+[ 5001.510637]    Binder:2040_6  2450    508449.314687       286   120         0.000000       498.112349         0.000000 /
+[ 5001.510637]        hwuiTask1  2579    508449.274167        37   118         0.000000         7.036226         0.000000 /
+[ 5001.510637]    Binder:2040_7  4200    508449.350934        69   120         0.000000        13.936742         0.000000 /
+[ 5001.510637]   webview_zygote  2110    250058.920316       189   120         0.000000       187.416327         0.000000 /
+[ 5001.510637]  FinalizerWatchd  5221     90009.330104         1   124         0.000000         0.189116         0.000000 /
+[ 5001.510637]  m.android.phone  2203    534229.103907     34138   120         0.000000     26722.399766         0.000000 /
+[ 5001.510637]  Jit thread pool  2212    533962.867615        75   129         0.000000       180.487157         0.000000 /
+[ 5001.510637]  ADB-JDWP Connec  2214    533961.907134        26   120         0.000000         9.474703         0.000000 /
+[ 5001.510637]  FinalizerDaemon  2218    502702.404148        21   124         0.000000        21.736568         0.000000 /
+[ 5001.510637]   HeapTaskDaemon  2221    533962.184367       150   124         0.000000      1666.359720         0.000000 /
+[ 5001.510637]    Binder:2203_1  2222    533961.902770        63   120         0.000000        10.247941         0.000000 /
+[ 5001.510637]    Binder:2203_2  2240    533961.897492       315   120         0.000000       363.413628         0.000000 /
+[ 5001.510637]    Binder:2203_3  2241    533961.892970       705   120         0.000000       264.396747         0.000000 /
+[ 5001.510637]    Profile Saver  2253    533962.645354        29   129         0.000000         7.565286         0.000000 /
+[ 5001.510637]  queued-work-loo  2320    533962.528779        30   118         0.000000         5.476414         0.000000 /
+[ 5001.510637]  GsmCellBroadcas  2359    533962.523670        14   120         0.000000         0.747471         0.000000 /
+[ 5001.510637]  GsmInboundSmsHa  2360    533962.521401        12   120         0.000000         0.618075         0.000000 /
+[ 5001.510637]  CellBroadcastHa  2361    533962.520496        10   120         0.000000         0.646749         0.000000 /
+[ 5001.510637]  CdmaInboundSmsH  2362    533962.527773        11   120         0.000000         0.480197         0.000000 /
+[ 5001.510637]  CdmaServiceCate  2363    533962.544791        10   120         0.000000         0.717914         0.000000 /
+[ 5001.510637]    LocaleTracker  2364    533962.532857        19   120         0.000000         3.146690         0.000000 /
+[ 5001.510637]  DcHandlerThread  2366    533963.089158        51   120         0.000000        10.994838         0.000000 /
+[ 5001.510637]       android.bg  2373    533963.694456       188   130         0.000000        54.102150         0.000000 /
+[ 5001.510637]    Binder:2203_4  2374    533962.622695       106   120         0.000000        13.500951         0.000000 /
+[ 5001.510637]    Binder:2203_5  2376    533962.654678        81   120         0.000000         9.436868         0.000000 /
+[ 5001.510637]   NetworkService  2381    533962.689368        64   120         0.000000        10.706408         0.000000 /
+[ 5001.510637]      DataService  2382    533962.717303        20   120         0.000000         3.760434         0.000000 /
+[ 5001.510637]  Cat Telephony s  2409    533962.690360         8   120         0.000000         0.780717         0.000000 /
+[ 5001.510637]  RilMessageDecod  2410    533962.684046         8   120         0.000000         0.904493         0.000000 /
+[ 5001.510637]  Cat Icon Loader  2411    533962.659006         7   120         0.000000         0.563482         0.000000 /
+[ 5001.510637]  CellularNetwork  2414    533963.076151        33   120         0.000000        16.886114         0.000000 /
+[ 5001.510637]  CellularDataSer  2415    533962.709545         9   120         0.000000         2.298684         0.000000 /
+[ 5001.510637]  ConnectivityThr  2416    533962.736975         8   120         0.000000         0.811081         0.000000 /
+[ 5001.950130]    Binder:2203_6  2417    533962.680592        52   120         0.000000         5.313731         0.000000 /
+[ 5001.950130]    Binder:2203_7  2420    533962.771833       332   120         0.000000        37.703948         0.000000 /
+[ 5001.953936]    Binder:2203_8  2458    533962.656080      2323   120         0.000000      3808.896203         0.000000 /
+[ 5001.953936]    Binder:2203_9  2460    533962.774755      1144   120         0.000000       227.764947         0.000000 /
+[ 5001.953936]    Binder:2203_A  2472    533962.663045       452   120         0.000000        83.426088         0.000000 /
+[ 5001.960104]    SyncHandler-0  2490    533962.735078        20   120         0.000000         0.714401         0.000000 /
+[ 5001.960104]   wpa_supplicant  2336    533867.967417       967   120         0.000000      4469.498209         0.000000 /
+[ 5001.960104]   Signal Catcher  2425      3928.382603         1   120         0.000000         0.198616         0.000000 /
+[ 5001.960104]  ReferenceQueueD  2427    509153.789926      3276   124         0.000000       939.106467         0.000000 /
+[ 5001.960104]    Binder:2418_6  3058    515485.406715      1764   120         0.000000      1036.794351         0.000000 /
+[ 5001.970095]        Thread-14  3307     15731.203031        45   130         0.000000        20.592305         0.000000 /
+[ 5001.970799]           Places  3417    229574.107153       672   120         0.000000       281.203791         0.000000 /
+[ 5001.970799]               DG  3571    183991.569937        28   120         0.000000         6.897928         0.000000 /
+[ 5001.970799]      highpool[4]  4098     25590.041764        24   129         0.000000         3.571143         0.000000 /
+[ 5001.970799]    Binder:2418_C  4802    534223.189836      2564   120         0.000000      1024.372102         0.000000 /
+[ 5001.980094]      lowpool[11]  5242    454818.525568       919   130         0.000000      4139.320173         0.000000 /
+[ 5001.980094]      lowpool[15]  5730    238666.545397       226   130         0.000000       189.362711         0.000000 /
+[ 5001.980094]    Binder:2418_F  6424    504321.915446       534   120         0.000000       292.949746         0.000000 /
+[ 5001.987576]  ReferenceQueueD  2598    508097.670475       854   124         0.000000       187.756161         0.000000 /
+[ 5001.990072]  FinalizerDaemon  2599    508093.989394       207   124         0.000000        54.667998         0.000000 /
+[ 5001.990072]  FinalizerWatchd  2600    508092.771916        41   124         0.000000         5.558532         0.000000 /
+[ 5001.990072]   HeapTaskDaemon  2601    508625.980503      1342   124         0.000000      4780.330506         0.000000 /
+[ 5001.990072]  GoogleApiHandle  2933    507696.157237      1613   129         0.000000       666.370932         0.000000 /
+[ 5001.990072]      highpool[0]  3047    230767.088493      2548   129         0.000000       560.683240         0.000000 /
+[ 5002.000109]      highpool[1]  3314    506918.494376      1496   129         0.000000       205.094409         0.000000 /
+[ 5002.004377]       lowpool[2]  3408    239940.777692      1279   130         0.000000      1108.635605         0.000000 /
+[ 5002.004377]  GlobalScheduler  3677    507378.563609       665   120         0.000000       242.110864         0.000000 /
+[ 5002.004377]  pool-32-thread-  3735     16332.507963        12   120         0.000000         1.775215         0.000000 /
+[ 5002.010070]    Binder:2590_9  3942    508059.431640       481   120         0.000000       353.375701         0.000000 /
+[ 5002.010070]  ThreadPoolServi  4000    322725.782332        22   120         0.000000       441.607536         0.000000 /
+[ 5002.010070]    Okio Watchdog  4255     94897.259979        41   120         0.000000         8.544511         0.000000 /
+[ 5002.010070]       lowpool[5]  5663    507574.942557       972   130         0.000000      2250.682634         0.000000 /
+[ 5002.021166]  ocess.gservices  2620    229574.149080       138   120         0.000000        91.521011         0.000000 /
+[ 5002.021166]  FinalizerDaemon  2629    507667.872809        29   124         0.000000        23.812204         0.000000 /
+[ 5002.021166]  FinalizerWatchd  2630    507730.242140        32   124         0.000000        21.905833         0.000000 /
+[ 5002.021166]   HeapTaskDaemon  2631    507692.159916       364   124         0.000000      1995.284581         0.000000 /
+[ 5002.030083]    Binder:2620_2  2633    509148.721647       626   120         0.000000        66.176368         0.000000 /
+[ 5002.030083]    Binder:2620_E  3786    339051.869868       438   120         0.000000       396.870221         0.000000 /
+[ 5002.035310]    Binder:2620_F  3806     71467.827921       535   120         0.000000        51.509892         0.000000 /
+[ 5002.037922]  hbox:interactor  2646    504109.274001       419   120         0.000000      1906.299215         0.000000 /
+[ 5002.040147]    Binder:2646_1  2664      8387.455417        19   120         0.000000         1.923031         0.000000 /
+[ 5002.040147]    Binder:2646_2  2667     10896.242036         4   120         0.000000         4.950907         0.000000 /
+[ 5002.040147]    Binder:2646_3  2675    229574.389649        17   120         0.000000         8.463258         0.000000 /
+[ 5002.040147]   Signal Catcher  2678    508615.226477        27   120         0.000000        30.109540         0.000000 /
+[ 5002.050075]  FinalizerDaemon  2681      8409.871429        13   124         0.000000         0.344905         0.000000 /
+[ 5002.050075]  FinalizerWatchd  2682      8404.734607         5   124         0.000000         0.319295         0.000000 /
+[ 5002.054760]  android.smspush  2739    229574.290938        76   120         0.000000        39.940725         0.000000 /
+[ 5002.054760]  FinalizerWatchd  2758      8502.250758         1   124         0.000000         0.065417         0.000000 /
+[ 5002.054760]    Binder:2739_2  2767    229574.328750        13   120         0.000000         4.191610         0.000000 /
+[ 5002.060129]    Binder:2763_1  2784     24973.205789        44   120         0.000000        25.912115         0.000000 /
+[ 5002.060129]    Binder:2763_2  2788     24973.330648        15   120         0.000000         3.372006         0.000000 /
+[ 5002.060129]    Binder:2763_3  2794     24973.498515        11   120         0.000000         1.425416         0.000000 /
+[ 5002.060129]  launcher-loader  2818    506185.380525      1692   130         0.000000       990.766942         0.000000 /
+[ 5002.070094]  pool-1-thread-1  2876      9319.830882         3   120         0.000000         0.330400         0.000000 /
+[ 5002.071607]  Recents-TaskRes  2879      9357.259568         1   130         0.000000         0.659714         0.000000 /
+[ 5002.071607]  pool-3-thread-1  2880      9368.192059        13   120         0.000000         6.104239         0.000000 /
+[ 5002.071607]  smartspace-load  2915     14162.472069         9   120         0.000000         4.539373         0.000000 /
+[ 5002.080124]    Binder:2763_6  4783    505326.684003       380   120         0.000000       335.688855         0.000000 /
+[ 5002.080124]  Jit thread pool  2792    308687.489993      2702   129         0.000000      5874.588462         0.000000 /
+[ 5002.080124]  TaskSchedulerBa  3261    533835.755577       249   120         0.000000      2353.172399         0.000000 /
+[ 5002.080124]  TaskSchedulerBa  3262    533835.693775       290   120         0.000000      2175.535152         0.000000 /
+[ 5002.088399]  TaskSchedulerFo  3263    533835.686707       258   120         0.000000      1970.763139         0.000000 /
+[ 5002.090106]  TaskSchedulerFo  3264    533835.877173       247   120         0.000000      1116.959793         0.000000 /
+[ 5002.090106]  DnsConfigServic  3269    502666.529462       116   120         0.000000       595.700006         0.000000 /
+[ 5002.090106]  Jit thread pool  2988     27045.800101         8   129         0.000000         5.317349         0.000000 /
+[ 5002.090106]   Signal Catcher  2990      9889.674131         2   120         0.000000         0.306195         0.000000 /
+[ 5002.100130]  ADB-JDWP Connec  2991     94192.129503        29   120         0.000000        44.426832         0.000000 /
+[ 5002.100130]  FinalizerDaemon  2993    504598.108498        84   124         0.000000        83.168526         0.000000 /
+[ 5002.105185]    Binder:2982_7  3802    496260.771038      4703   120         0.000000      1769.586887         0.000000 /
+[ 5002.105185]    Binder:2982_8  4850    496262.299014      8641   120         0.000000      5357.888368         0.000000 /
+[ 5002.110090]    Binder:2982_D  5711    496258.344622      3097   120         0.000000      1555.589549         0.000000 /
+[ 5002.110090]    Binder:2982_E  6019    385291.378661      1301   120         0.000000       656.021377         0.000000 /
+[ 5002.110090]   Binder:2982_10  6364    515485.551949      3196   120         0.000000      1477.851644         0.000000 /
+[ 5002.110090]  Jit thread pool  3630    231786.734536        90   129         0.000000        61.375196         0.000000 /
+[ 5002.120076]   HeapTaskDaemon  3639     98857.657999        92   124         0.000000       240.672878         0.000000 /
+[ 5002.121976]    Binder:3625_1  3640     17098.443702        28   120         0.000000         5.784893         0.000000 /
+[ 5002.121976]    Profile Saver  3651    231911.189450        28   129         0.000000        29.204393         0.000000 /
+[ 5002.121976]    Binder:3625_3  3692     17098.521077        15   120         0.000000         1.019694         0.000000 /
+[ 5002.130065]    Binder:3625_4  3694    508083.298005       393   120         0.000000       119.408203         0.000000 /
+[ 5002.130065]          Timer-0  3705     15565.923265         2   120         0.000000         0.192788         0.000000 /
+[ 5002.130065]  WebRtcVolumeLev  3718    533858.555838       584   120         0.000000      7659.257457         0.000000 /
+[ 5002.130065]  oid.setupwizard  3958    505436.492195       653   120         0.000000       204.530910         0.000000 /
+[ 5002.138760]  FinalizerDaemon  3968     17109.573856         4   124         0.000000         0.092050         0.000000 /
+[ 5002.140088]  Jit thread pool  4859     26712.463576        37   129         0.000000        12.651193         0.000000 /
+[ 5002.140088]   HeapTaskDaemon  4865     30845.268837         9   124         0.000000         7.741197         0.000000 /
+[ 5002.140088]    Profile Saver  4877     30231.091668         3   129         0.000000         1.931181         0.000000 /
+[ 5002.140088]  FinalizerWatchd  5603    238643.678358         9   124         0.000000         0.768980         0.000000 /
+[ 5002.150074]    Binder:5593_1  5605    139891.254118        10   120         0.000000         0.631894         0.000000 /
+[ 5002.150074]    Binder:5593_4  5696    234006.211106         8   120         0.000000         2.419484         0.000000 /
+[ 5002.155538]  FinalizerDaemon  6227    232693.017387         3   124         0.000000         1.013511         0.000000 /
+[ 5002.155538]   HeapTaskDaemon  6229    234119.544904         5   124         0.000000        30.108268         0.000000 /
+[ 5002.160094]  ADB-JDWP Connec  6289    230939.294967         9   120         0.000000         0.838834         0.000000 /
+[ 5002.160094]   HeapTaskDaemon  6293    230942.601306         2   124         0.000000         0.186089         0.000000 /
+[ 5002.160094]    Binder:6278_3  6298    231063.457115         1   120         0.000000         1.775181         0.000000 /
+[ 5002.160094]       DartWorker  6377    257204.654075        59   110         0.000000       208.340743         0.000000 /
+[ 5002.160094]      kworker/1:1  6346    508083.349106       244   120         0.000000        95.912140         0.000000 /
+[ 5002.170095]  ReferenceQueueD  6477    339053.104588         8   124         0.000000         1.109033         0.000000 /
+[ 5002.172341]  FinalizerDaemon  6478    339053.450234        12   124         0.000000         4.264295         0.000000 /
+[ 5002.172341]    Binder:6469_1  6481    411652.035068        11   120         0.000000         8.243158         0.000000 /
+[ 5002.172341]    Binder:6469_2  6482    411673.603464        26   120         0.000000       378.716170         0.000000 /
+[ 5002.172341]    Profile Saver  6485    339352.945396         5   129         0.000000        48.566890         0.000000 /
+[ 5002.180077]  queued-work-loo  6488    338985.365203         2   118         0.000000         4.651495         0.000000 /
+[ 5002.180077]    Binder:6469_4  6559    411730.796430        44   120         0.000000        52.192969         0.000000 /
+[ 5002.180077]      kworker/1:0  6489    508433.741304       216   120         0.000000       148.181129         0.000000 /
+[ 5002.180077]  .android.videos  6509    501437.909332      1008   120         0.000000     18397.998653         0.000000 /
+[ 5002.190064]  RefQueueWorker@  6529    408501.102596         2   120         0.000000         0.924767         0.000000 /
+[ 5002.190064]         Thread-3  6530    408580.080710         7   130         0.000000        13.588721         0.000000 /
+[ 5002.190064]  RefQueueWorker@  6533    408585.598348         1   120         0.000000         0.517641         0.000000 /
+[ 5002.190064]         Thread-7  6534    408643.293601         8   130         0.000000         7.407733         0.000000 /
+[ 5002.190064]        Thread-11  6538    408671.421476         1   130         0.000000         7.297715         0.000000 /
+[ 5002.190064]  tentative-gc-ru  6539    408694.752261         1   130         0.000000         2.723832         0.000000 /
+[ 5002.200079]          local-1  6548    410444.545177         1   121         0.000000         3.508803         0.000000 /
+[ 5002.200079]          local-2  6554    410648.484845         3   121         0.000000        11.279432         0.000000 /
+[ 5002.205905]    Binder:6509_5  6583    509113.577822        11   120         0.000000        57.797027         0.000000 /
+[ 5002.205905]  ndroid.calendar  6630    507727.820335       262   120         0.000000       167.050652         0.000000 /
+[ 5002.210102]  ReferenceQueueD  6643    507633.515033        10   124         0.000000         1.091662         0.000000 /
+[ 5002.210102]  FinalizerWatchd  6647    507727.718849         6   124         0.000000         0.322238         0.000000 /
+[ 5002.210102]   HeapTaskDaemon  6648    507672.898682         8   124         0.000000        31.791194         0.000000 /
+[ 5002.210102]  GoogleApiHandle  6665    507674.302456        13   129         0.000000         4.435582         0.000000 /
+[ 5002.210102]    Binder:6630_3  6667    515483.598560        10   120         0.000000         5.712118         0.000000 /
+[ 5002.220076]         Thread-3  6669    506206.930606         2   130         0.000000         0.158889         0.000000 /
+[ 5002.222702]         Thread-6  6672    506205.376181         2   130         0.000000         0.123942         0.000000 /
+[ 5002.222702]  queued-work-loo  6673    506204.833203         2   118         0.000000         0.333328         0.000000 /
+[ 5002.222702]  GAC_Executor[1]  6674    506234.761271         7   120         0.000000         0.714939         0.000000 /
+[ 5002.230071]  viders.calendar  6635    507671.830458       105   120         0.000000        95.724791         0.000000 /
+[ 5002.230071]  Jit thread pool  6644    505627.548783         2   129         0.000000         0.611884         0.000000 /
+[ 5002.230071]   Signal Catcher  6646    505637.039396         3   120         0.000000         0.175103         0.000000 /
+[ 5002.230071]  ReferenceQueueD  6650    507632.210160         3   124         0.000000         0.515374         0.000000 /
+[ 5002.239515]  FinalizerDaemon  6651    507631.575305         3   124         0.000000         0.273191         0.000000 /
+[ 5002.240139]  FinalizerWatchd  6652    507727.820080         3   124         0.000000         0.275709         0.000000 /
+[ 5002.240139]   HeapTaskDaemon  6653    507672.610618         5   124         0.000000        10.363474         0.000000 /
+[ 5002.240139]    Binder:6635_2  6657    507738.596060        58   120         0.000000        11.650776         0.000000 /
+[ 5002.240139]    Binder:6635_3  6664    506177.766480         6   120         0.000000         0.555357         0.000000 /
+[ 5002.250125]  Jit thread pool  6681    506899.938082         8   129         0.000000         5.437138         0.000000 /
+[ 5002.250125]   Signal Catcher  6682    506239.726801         2   120         0.000000         0.082630         0.000000 /
+[ 5002.256312]  ADB-JDWP Connec  6683    506243.424279        10   120         0.000000         0.367876         0.000000 /
+[ 5002.256312]  ReferenceQueueD  6684    507633.224977         5   124         0.000000         0.926600         0.000000 /
+[ 5002.260102]  FinalizerDaemon  6685    507631.668124         4   124         0.000000         0.280882         0.000000 /
+[ 5002.260102]  FinalizerWatchd  6686    507727.810670         6   124         0.000000         0.283984         0.000000 /
+[ 5002.260102]   HeapTaskDaemon  6687    507672.663380         7   124         0.000000        11.616476         0.000000 /
+[ 5002.260102]  GAC_Executor[0]  6708    506810.515964        13   120         0.000000         1.972230         0.000000 /
+[ 5002.270062]      kworker/1:2  6711    535213.443346        14   120         0.000000         0.371883         0.000000 /
+[ 5002.272728] 
+[ 5002.273219] cpu#2, 2496.251 MHz
+[ 5002.274085]   .nr_running                    : 4
+[ 5002.275010]   .load                          : 110
+[ 5002.275901]   .nr_switches                   : 946117
+[ 5002.276913]   .nr_load_updates               : 225161
+[ 5002.277697]   .nr_uninterruptible            : 67
+[ 5002.278573]   .next_balance                  : 4295.437524
+[ 5002.279534]   .curr->pid                     : 1976
+[ 5002.280360]   .clock                         : 5002280.347184
+[ 5002.281346]   .clock_task                    : 5002281.331446
+[ 5002.282337]   .cpu_load[0]                   : 18
+[ 5002.283074]   .cpu_load[1]                   : 9
+[ 5002.283795]   .cpu_load[2]                   : 5
+[ 5002.284452]   .cpu_load[3]                   : 3
+[ 5002.285105]   .cpu_load[4]                   : 2
+[ 5002.285784] 
+[ 5002.285784] cfs_rq[2]:/
+[ 5002.286519]   .exec_clock                    : 0.000000
+[ 5002.287574]   .MIN_vruntime                  : 0.000001
+[ 5002.288518]   .min_vruntime                  : 462148.996791
+[ 5002.289547]   .max_vruntime                  : 0.000001
+[ 5002.290267]   .spread                        : 0.000000
+[ 5002.290267]   .spread0                       : -31331.939728
+[ 5002.290267]   .nr_spread_over                : 0
+[ 5002.290267]   .nr_running                    : 0
+[ 5002.290267]   .load                          : 0
+[ 5002.290267]   .load_avg                      : 126
+[ 5002.290267]   .runnable_load_avg             : 0
+[ 5002.290267]   .util_avg                      : 189
+[ 5002.290267]   .removed_load_avg              : 0
+[ 5002.290267]   .removed_util_avg              : 0
+[ 5002.290267]   .tg_load_avg_contrib           : 0
+[ 5002.290267]   .tg_load_avg                   : 0
+[ 5002.290267] 
+[ 5002.290267] rt_rq[2]:/
+[ 5002.290267]   .rt_nr_running                 : 0
+[ 5002.290267]   .rt_throttled                  : 0
+[ 5002.290267]   .rt_time                       : 0.656716
+[ 5002.290267]   .rt_runtime                    : 950.000000
+[ 5002.290267] 
+[ 5002.290267] dl_rq[2]:
+[ 5002.290267]   .dl_nr_running                 : 0
+[ 5002.290267] 
+[ 5002.290267] runnable tasks:
+[ 5002.290267]             task   PID         tree-key  switches  prio     wait-time             sum-exec        sum-sleep
+[ 5002.290267] ----------------------------------------------------------------------------------------------------------
+[ 5002.290267]             init     1    461937.531318      1017   120         0.000000      1821.347646         0.000000 /
+[ 5002.290267]      rcu_preempt     7    462144.016245     94209   120         0.000000      2832.968139         0.000000 /
+[ 5002.290267]      migration/2    15         0.000000       225     0         0.000000         4.387340         0.000000 /
+[ 5002.290267]      ksoftirqd/2    16    461944.081111      6391   120         0.000000       714.094548         0.000000 /
+[ 5002.290267]     kworker/2:0H    18      4542.325810        11   100         0.000000         0.081681         0.000000 /
+[ 5002.290267]        writeback   383       890.138073         2   100         0.000000         0.002952         0.000000 /
+[ 5002.290267]           crypto   385       908.404446         2   100         0.000000         0.000000         0.000000 /
+[ 5002.290267]           bioset   386       917.404441         2   100         0.000000         0.000000         0.000000 /
+[ 5002.290267]          kswapd0   649    461798.495300      4172   120         0.000000     10661.439956         0.000000 /
+[ 5002.290267]           vmstat   650      1665.319364         2   100         0.000000         0.011905         0.000000 /
+[ 5002.290267]            hwrng   820    461918.633052      4438   120         0.000000       245.116771         0.000000 /
+[ 5002.290267]           bioset   826      2135.486467         2   100         0.000000         0.019297         0.000000 /
+[ 5002.290267]           bioset   835      2141.510486         2   100         0.000000         0.024579         0.000000 /
+[ 5002.290267]           bioset   836      2147.526356         2   100         0.000000         0.016299         0.000000 /
+[ 5002.290267]           bioset   837      2153.546959         2   100         0.000000         0.021033         0.000000 /
+[ 5002.290267]           bioset   838      2159.569207         2   100         0.000000         0.022869         0.000000 /
+[ 5002.290267]           bioset   839      2165.586801         2   100         0.000000         0.018002         0.000000 /
+[ 5002.290267]           bioset   878      2261.731868         2   100         0.000000         0.019776         0.000000 /
+[ 5002.290267]           bioset   901      2285.786826         2   100         0.000000         0.020318         0.000000 /
+[ 5002.290267]         iscsi_eh   933      2372.633968         2   100         0.000000         0.027565         0.000000 /
+[ 5002.290267]       scsi_tmf_1   954      2408.782637         2   100         0.000000         0.025499         0.000000 /
+[ 5002.290267]          deferwq  1120      2671.218747         2   100         0.000000         0.021037         0.000000 /
+[ 5002.290267]             init  1193      2858.114520         1   120         0.000000         1.210506         0.000000 /
+[ 5002.290267]      logd.writer  1573    461987.476406     31769   130         0.000000     15232.471510         0.000000 /
+[ 5002.290267]       logd.klogd  1576    462148.996791      2577   130         0.000000      1850.813322         0.000000 /
+[ 5002.290267]  logd.reader.per  6165    461986.767864      7017   130         0.000000       889.118853         0.000000 /
+[ 5002.290267]    Binder:1569_2  1569      9518.858758        66   120         0.000000        35.469874         0.000000 /
+[ 5002.290267]    Binder:1569_1  1578      9518.851386        18   120         0.000000         0.666132         0.000000 /
+[ 5002.290267]    Binder:1569_3  1580     10025.997009        78   120         0.000000        18.791750         0.000000 /
+[ 5002.290267]          kauditd  1575    214072.047124        45   120         0.000000         3.361354         0.000000 /
+[ 5002.290267]  allocator@1.0-s  1618      5674.146866       138   120         0.000000        15.730003         0.000000 /
+[ 5002.290267]          healthd  1619    461219.241934       363   120         0.000000      1861.001602         0.000000 /
+[ 5002.290267]  audio@2.0-servi  1620    461764.722642       406   120         0.000000        92.468280         0.000000 /
+[ 5002.290267]    Binder:1620_1  1664    461764.310700         9   120         0.000000         0.787317         0.000000 /
+[ 5002.290267]    Binder:1620_2  1665    461764.296840         7   120         0.000000         0.194405         0.000000 /
+[ 5002.290267]  HwBinder:1620_1  1702    461764.295971        79   120         0.000000        13.517915         0.000000 /
+[ 5002.290267]  HwBinder:1620_1  1711    461764.295842      2421   120         0.000000       183.405099         0.000000 /
+[ 5002.290267]  HwBinder:1620_2  1716    461764.295606         8   120         0.000000         0.567921         0.000000 /
+[ 5002.290267]  HwBinder:1620_3  1717    461764.295553        14   120         0.000000         4.799432         0.000000 /
+[ 5002.290267]  HwBinder:1620_4  6832    461773.791184         1   120         0.000000         2.247763         0.000000 /
+[ 5002.290267]  configstore@1.1  1624      5616.294182        19   120         0.000000        15.792952         0.000000 /
+[ 5002.290267]  HwBinder:1624_1  1668      5616.268780        42   120         0.000000         1.441324         0.000000 /
+[ 5002.290267]  HwBinder:1624_2  1669      5616.263081         7   120         0.000000         0.288602         0.000000 /
+[ 5002.290267]  HwBinder:1624_3  2313      5620.339739         1   120         0.000000         0.350085         0.000000 /
+[ 5002.290267]  HwBinder:1624_4  2316    214072.394108        60   120         0.000000        42.864244         0.000000 /
+[ 5002.290267]  drm@1.1-service  1627      4111.661055        63   120         0.000000        25.322348         0.000000 /
+[ 5002.290267]  gatekeeper@1.0-  1628      4705.158224        23   120         0.000000        13.974788         0.000000 /
+[ 5002.290267]  gnss@1.0-servic  2149    461985.787523     10106   120         0.000000      2816.517608         0.000000 /
+[ 5002.290267]  HwBinder:1630_3  2317    215920.017724       404   120         0.000000      1390.432879         0.000000 /
+[ 5002.290267]  health@2.0-serv  1632    461500.995343       539   120         0.000000      2302.792580         0.000000 /
+[ 5002.290267]  wifi@1.0-servic  2379    461944.129584      1692   120         0.000000       611.815488         0.000000 /
+[ 5002.290267]       qemu-props  1639    461916.400748       235   120         0.000000      1233.793696         0.000000 /
+[ 5002.290267]  HwBinder:1640_3  6714    461839.139729        18   120         0.000000         9.993319         0.000000 /
+[ 5002.290267]  HwBinder:1640_4  6845    461839.140506         4   120         0.000000         2.297970         0.000000 /
+[ 5002.290267]    Binder:1640_4  6846    461839.160743         3   120         0.000000         0.201800         0.000000 /
+[ 5002.290267]             adbd  1648    462073.336348     51724   120         0.000000     82702.409807         0.000000 /
+[ 5002.290267]         ->host-8  5419    462073.278573     24958   120         0.000000      7546.385035         0.000000 /
+[ 5002.290267]         <-host-8  5420    462073.369912     13193   120         0.000000      3079.803959         0.000000 /
+[ 5002.290267]    traced_probes  1660    461222.448321       198   120         0.000000      1116.952125         0.000000 /
+[ 5002.290267]    dmcrypt_write  1696    461202.729682     11627   120         0.000000       697.656269         0.000000 /
+[ 5002.290267]     kworker/2:1H  1728    461202.555525      2772   100         0.000000        83.297552         0.000000 /
+[ 5002.290267]         DispSync  1774         2.499997     10440    97         0.000000       953.404480         0.000000 /
+[ 5002.290267]    Binder:1742_2  1777    461839.643544      7428   116         0.000000       801.783492         0.000000 /
+[ 5002.290267]  HwBinder:1742_1  1782    461839.686515      1509   120         0.000000       539.974117         0.000000 /
+[ 5002.290267]   surfaceflinger  1937    461839.605055       902   112         0.000000       248.538924         0.000000 /
+[ 5002.290267]    Binder:1742_3  1994    461839.765979      5975   120         0.000000       566.408152         0.000000 /
+[ 5002.290267]    Binder:1742_4  2298    461839.665147      2706   120         0.000000       292.819705         0.000000 /
+[ 5002.290267]    Binder:1742_5  2459    461839.681381      3100   120         0.000000      1446.560260         0.000000 /
+[ 5002.290267]  FinalizerDaemon  6511    353387.781020        11   124         0.000000         6.729196         0.000000 /
+[ 5002.290267]     cameraserver  1745    461857.759033       455   120         0.000000        98.196098         0.000000 /
+[ 5002.290267]  HwBinder:1745_1  1779    461857.620061        12   120         0.000000         0.582394         0.000000 /
+[ 5002.290267]  HwBinder:1745_2  1787    461857.617464        11   120         0.000000         0.433949         0.000000 /
+[ 5002.290267]  HwBinder:1745_3  1788    461857.614165        10   120         0.000000         0.404730         0.000000 /
+[ 5002.290267]    Binder:1745_1  1980    461857.613456       209   120         0.000000       716.589017         0.000000 /
+[ 5002.290267]    Binder:1745_2  2065    461857.613135        24   120         0.000000         2.713542         0.000000 /
+[ 5002.290267]    Binder:1745_3  2697    461857.616700        56   120         0.000000        23.762981         0.000000 /
+[ 5002.290267]        drmserver  1746    461881.195966       119   120         0.000000        45.294571         0.000000 /
+[ 5002.290267]    Binder:1746_1  1826    461881.132012        73   120         0.000000         3.034324         0.000000 /
+[ 5002.290267]    Binder:1746_2  3298    461881.129037        14   120         0.000000         0.545304         0.000000 /
+[ 5002.290267]    Binder:1746_3  6733    461881.126174         9   120         0.000000         1.389010         0.000000 /
+[ 5002.290267]    Binder:1746_4  6801    461881.125656         6   120         0.000000         2.857472         0.000000 /
+[ 5002.290267]    Binder:1747_2  1747      6027.684197        24   120         0.000000        16.372302         0.000000 /
+[ 5002.290267]    Binder:1748_5  1978    209907.027329       471   120         0.000000       159.294288         0.000000 /
+[ 5002.290267]  HwBinder:1749_1  1790      4728.020623         2   120         0.000000         0.222578         0.000000 /
+[ 5002.290267]    Binder:1750_1  1772    461896.178860        11   120         0.000000         1.258909         0.000000 /
+[ 5002.290267]    Binder:1750_2  6735    461896.180391        12   120         0.000000         0.563507         0.000000 /
+[ 5002.290267]    Binder:1750_3  6810    461896.180321         4   120         0.000000         0.183233         0.000000 /
+[ 5002.290267]   mediaextractor  1751    461905.834707       179   120         0.000000        73.428567         0.000000 /
+[ 5002.290267]    Binder:1751_1  1843    461903.404995       210   120         0.000000        27.908769         0.000000 /
+[ 5002.290267]    Binder:1751_3  2339    461903.673849         4   120         0.000000         9.715861         0.000000 /
+[ 5002.290267]    Binder:1751_4  2340    461903.916734       116   120         0.000000        17.708758         0.000000 /
+[ 5002.290267]     mediametrics  1752    461916.246913        36   120         0.000000        39.932426         0.000000 /
+[ 5002.290267]    Binder:1752_1  1784    461916.178274       485   120         0.000000       318.599200         0.000000 /
+[ 5002.290267]    Binder:1752_2  6742    461916.175238        11   120         0.000000         1.501908         0.000000 /
+[ 5002.290267]    Binder:1753_1  1803    461930.120053       324   120         0.000000        17.428167         0.000000 /
+[ 5002.290267]  HwBinder:1753_1  2080    461930.123121        42   120         0.000000         1.474813         0.000000 /
+[ 5002.290267]    Binder:1753_2  2254    461930.107390        45   120         0.000000         4.149890         0.000000 /
+[ 5002.290267]    Binder:1753_3  3299    461930.106366       115   120         0.000000         5.692672         0.000000 /
+[ 5002.290267]    Binder:1753_4  6818    461930.106367         9   120         0.000000         1.293121         0.000000 /
+[ 5002.290267]             netd  1809    441211.747641        74   120         0.000000       265.337540         0.000000 /
+[ 5002.290267]             netd  1811      4762.668549         6   120         0.000000         0.024235         0.000000 /
+[ 5002.290267]             netd  1812    301715.242629         6   120         0.000000         6.631253         0.000000 /
+[ 5002.290267]             netd  1815      5253.523472         6   120         0.000000         0.092532         0.000000 /
+[ 5002.290267]    Binder:1754_2  1818    310904.586058       188   120         0.000000        76.900656         0.000000 /
+[ 5002.290267]  HwBinder:1754_1  1822      4767.686528         2   120         0.000000         0.036922         0.000000 /
+[ 5002.290267]    Binder:1754_2  3248    342531.932612        68   120         0.000000       649.298063         0.000000 /
+[ 5002.290267]    statsd.writer  1771    461985.790740     24360   120         0.000000      3277.938311         0.000000 /
+[ 5002.290267]         wificond  1757    461944.232352      2071   120         0.000000      3393.512150         0.000000 /
+[ 5002.290267]  omx@1.0-service  1758    461941.647799       529   120         0.000000       118.780759         0.000000 /
+[ 5002.290267]    Binder:1758_1  1797    461938.695620        21   120         0.000000        24.486070         0.000000 /
+[ 5002.290267]    Binder:1758_2  1798    461939.339481        10   120         0.000000        21.373504         0.000000 /
+[ 5002.290267]  HwBinder:1758_1  1799    461939.122806       326   120         0.000000        37.372277         0.000000 /
+[ 5002.290267]  HwBinder:1758_2  1800    461939.110944       175   120         0.000000        29.072282         0.000000 /
+[ 5002.290267]  HwBinder:1758_4  2208    461939.537668       400   120         0.000000        53.832639         0.000000 /
+[ 5002.290267]  HwBinder:1758_6  2329    461939.779460       148   120         0.000000        22.887408         0.000000 /
+[ 5002.290267]             rild  1759    461937.553120      1546   120         0.000000      5136.389648         0.000000 /
+[ 5002.290267]             rild  1805    461937.397248       833   120         0.000000      1267.204381         0.000000 /
+[ 5002.290267]      gatekeeperd  1761     20820.964952        29   120         0.000000        20.976948         0.000000 /
+[ 5002.290267]    Binder:1762_2  1762      4704.720418        21   120         0.000000        10.484281         0.000000 /
+[ 5002.290267]    Binder:1762_1  1778      4712.217373         1   120         0.000000         0.086701         0.000000 /
+[ 5002.290267]  fingerprint@2.1  1765      5265.654666        27   120         0.000000         7.990429         0.000000 /
+[ 5002.290267]  fingerprint@2.1  1786    462144.076787      1033   120         0.000000       951.201460         0.000000 /
+[ 5002.290267]       dhcpclient  1868    441322.628572      4656   120         0.000000       662.864598         0.000000 /
+[ 5002.290267]   hostapd_nohidl  1888    461936.794827       927   120         0.000000      5732.501237         0.000000 /
+[ 5002.290267]    system_server  1896    461565.567893      6683   118         0.000000      7472.347822         0.000000 /
+[ 5002.290267]  ReferenceQueueD  1903    459128.475791      2303   124         0.000000      1127.629417         0.000000 /
+[ 5002.290267]  FinalizerWatchd  1905    459725.471525        68   124         0.000000        48.211640         0.000000 /
+[ 5002.290267]       android.bg  1918    461996.750669     19840   130         0.000000     18353.878737         0.000000 /
+[ 5002.290267]  ActivityManager  1919    461565.543674      2308   118         0.000000      4401.574216         0.000000 /
+[ 5002.290267]  ActivityManager  1921    461565.538744       484   118         0.000000       236.300789         0.000000 /
+[ 5002.290267]  ActivityManager  1922    461565.817202       233   130         0.000000       545.679224         0.000000 /
+[ 5002.290267]  batterystats-wo  1923    442554.405462       789   120         0.000000      6024.234529         0.000000 /
+[ 5002.290267]       android.io  1926    461565.554617       612   120         0.000000      1286.898774         0.000000 /
+[ 5002.290267]  android.display  1927    461565.535120      1242   117         0.000000       276.034718         0.000000 /
+[ 5002.290267]       CpuTracker  1928    302984.629887        14   120         0.000000       211.715186         0.000000 /
+[ 5002.290267]  PowerManagerSer  1929    461985.939959     37566   116         0.000000      4292.572816         0.000000 /
+[ 5002.290267]   PackageManager  1941    461565.690421        11   130         0.000000         1.352287         0.000000 /
+[ 5002.290267]   PackageManager  1942    461565.835270       500   130         0.000000       352.967816         0.000000 /
+[ 5002.290267]  PackageInstalle  1966    461565.563512       193   120         0.000000       954.482963         0.000000 /
+[ 5002.290267]  android.anim.lf  1969    461565.565648       237   116         0.000000       108.595412         0.000000 /
+[ 5002.290267]    SensorService  1976         3.228244     75863    89         0.000000     18845.082665         0.000000 /
+[ 5002.290267]     NetworkStats  1998    461565.565819       220   120         0.000000       471.533375         0.000000 /
+[ 5002.290267]    NetworkPolicy  1999    461565.553337       617   120         0.000000       223.634216         0.000000 /
+[ 5002.290267]  tworkPolicy.uid  2000    461565.536876       649   118         0.000000       256.368595         0.000000 /
+[ 5002.290267]      WifiService  2001    462051.829051      5291   120         0.000000      5820.188241         0.000000 /
+[ 5002.290267]  WifiScanningSer  2004    461565.741060       787   120         0.000000      3096.627634         0.000000 /
+[ 5002.290267]   WifiP2pService  2005    461565.722217        37   120         0.000000         5.635401         0.000000 /
+[ 5002.290267]  ConnectivitySer  2006    461565.696110       857   120         0.000000       959.197159         0.000000 /
+[ 5002.290267]  roid.pacmanager  2007    461565.695587        10   120         0.000000         0.583261         0.000000 /
+[ 5002.290267]       NsdService  2008    461565.696307        11   120         0.000000         0.645891         0.000000 /
+[ 5002.290267]    mDnsConnector  2009    461565.705635         7   120         0.000000         0.652307         0.000000 /
+[ 5002.290267]  notification-sq  2010    461567.275684        21   130         0.000000         6.914913         0.000000 /
+[ 5002.290267]           ranker  2011    461567.138812        67   130         0.000000         9.500868         0.000000 /
+[ 5002.290267]  onProviders.ECP  2012    461567.549789       295   130         0.000000        50.644377         0.000000 /
+[ 5002.290267]  DeviceStorageMo  2013    461941.228467       169   130         0.000000      2155.490648         0.000000 /
+[ 5002.290267]     AudioService  2014    461565.721326       259   120         0.000000        38.569247         0.000000 /
+[ 5002.290267]   UEventObserver  2016    461565.691635       259   120         0.000000       254.471876         0.000000 /
+[ 5002.290267]  ConnectivityThr  2018    461565.739494        72   120         0.000000         8.223863         0.000000 /
+[ 5002.290267]  GraphicsStats-d  2019    461567.551401        82   130         0.000000       148.392147         0.000000 /
+[ 5002.290267]  HwBinder:1896_2  2020    461565.701691      4448   120         0.000000      7065.246762         0.000000 /
+[ 5002.290267]  SliceManagerSer  2021    461567.312538        21   130         0.000000         1.945361         0.000000 /
+[ 5002.290267]  CameraService_p  2022    461565.611197        10   116         0.000000         0.721793         0.000000 /
+[ 5002.290267]    SyncHandler-0  2023    461565.717529       106   120         0.000000       183.964773         0.000000 /
+[ 5002.290267]  PhotonicModulat  2025      5297.112551         6   120         0.000000         0.364757         0.000000 /
+[ 5002.290267]      SyncManager  2027    461567.666405        38   130         0.000000         9.201174         0.000000 /
+[ 5002.290267]    Binder:1896_3  2028    461565.707742      5548   120         0.000000      2290.127348         0.000000 /
+[ 5002.290267]    Binder:1896_4  2029    461565.676113      6491   120         0.000000      1795.739715         0.000000 /
+[ 5002.290267]        SoundPool  2031    461565.673757        69   120         0.000000         5.411383         0.000000 /
+[ 5002.290267]  SoundPoolThread  2032    461565.694722      1312   120         0.000000        15.166188         0.000000 /
+[ 5002.290267]         Thread-4  2033    461565.762116        10   120         0.000000         1.458333         0.000000 /
+[ 5002.290267]  NetworkStatsObs  2063    461565.747837        48   120         0.000000        14.977323         0.000000 /
+[ 5002.290267]  EmergencyAfford  2074    461565.719587        77   120         0.000000        11.135771         0.000000 /
+[ 5002.290267]  NetworkTimeUpda  2100    461565.706187       105   120         0.000000         9.769281         0.000000 /
+[ 5002.290267]    Binder:1896_5  2150    461565.706279      7806   120         0.000000      4076.697644         0.000000 /
+[ 5002.290267]    Binder:1896_6  2180    461565.664401      3253   120         0.000000       669.867770         0.000000 /
+[ 5002.290267]    Binder:1896_7  2193    461565.682204      7662   120         0.000000      1812.378866         0.000000 /
+[ 5002.290267]    Binder:1896_8  2194    461565.698573      8108   120         0.000000      2474.271541         0.000000 /
+[ 5002.290267]  HwBinder:1896_3  2252    461565.656007       112   120         0.000000        17.224473         0.000000 /
+[ 5002.290267]  BluetoothRouteM  2272    461565.685071        15   120         0.000000         0.649975         0.000000 /
+[ 5002.290267]  AudioPortEventH  2273    461565.718550        16   120         0.000000         0.804615         0.000000 /
+[ 5002.290267]  uteStateMachine  2278    461565.730016        11   120         0.000000         1.554897         0.000000 /
+[ 5002.290267]  CallAudioModeSt  2285    461565.714445        17   120         0.000000         1.274483         0.000000 /
+[ 5002.290267]  queued-work-loo  2331    461565.652359        12   118         0.000000         1.037797         0.000000 /
+[ 5002.290267]   IpClient.wlan0  2397    461565.793995       718   120         0.000000      3357.449103         0.000000 /
+[ 5002.290267]  NetworkMonitorN  2497    461565.735037        20   120         0.000000         4.242488         0.000000 /
+[ 5002.290267]    Okio Watchdog  2534     25865.320412         9   120         0.000000         0.645879         0.000000 /
+[ 5002.290267]           backup  2641    461567.419984       519   130         0.000000       167.568759         0.000000 /
+[ 5002.290267]    Binder:1896_9  2692    461565.655306      5034   120         0.000000      3514.560262         0.000000 /
+[ 5002.290267]    Binder:1896_A  2693    461565.710617      4352   120         0.000000      1170.162297         0.000000 /
+[ 5002.290267]    Binder:1896_B  2719    461565.677765     11380   120         0.000000      4526.031334         0.000000 /
+[ 5002.290267]    Binder:1896_C  2721    461565.653812      7917   120         0.000000      8676.462379         0.000000 /
+[ 5002.290267]    Binder:1896_D  2724    461565.693554      8680   120         0.000000      5250.423182         0.000000 /
+[ 5002.290267]    Binder:1896_E  2726    461565.673474      4394   120         0.000000       974.156623         0.000000 /
+[ 5002.290267]  AsyncQueryWorke  3072    461565.750586        24   120         0.000000         3.754035         0.000000 /
+[ 5002.290267]  HwBinder:1896_4  3120    461986.668724      1268   120         0.000000      1596.739896         0.000000 /
+[ 5002.290267]  NetworkMonitorN  3123    461565.720964       383   120         0.000000      1756.648810         0.000000 /
+[ 5002.290267]        Thread-14  3138    461565.732353        14   120         0.000000         3.507650         0.000000 /
+[ 5002.290267]    Binder:1896_F  3659    461565.697039      1370   120         0.000000       339.734071         0.000000 /
+[ 5002.290267]   Binder:1896_10  3805    461565.682624      8741   120         0.000000      8689.863601         0.000000 /
+[ 5002.290267]   Binder:1896_11  3934    461565.683482     11662   120         0.000000      9733.367528         0.000000 /
+[ 5002.290267]   Binder:1896_12  4498    461565.696600      1231   120         0.000000       334.845872         0.000000 /
+[ 5002.290267]     RenderThread  4872    461567.456206       513   130         0.000000      1311.674428         0.000000 /
+[ 5002.290267]   Binder:1896_13  4985    461565.633214      3150   120         0.000000      1028.717250         0.000000 /
+[ 5002.290267]   Binder:1896_14  5688    461565.654521      4409   120         0.000000      7405.642473         0.000000 /
+[ 5002.290267]   Binder:1896_15  5698    461565.694645     13191   120         0.000000     10037.751106         0.000000 /
+[ 5002.290267]   Binder:1896_16  5710    461565.704800      4287   120         0.000000      7545.629221         0.000000 /
+[ 5002.290267]   Binder:1896_17  5712    462073.604246      7483   120         0.000000      6560.726932         0.000000 /
+[ 5002.290267]   Binder:1896_18  6703    462073.483152      1016   120         0.000000       209.217982         0.000000 /
+[ 5002.290267]  composer@2.1-se  1931         0.000000       676    97         0.000000       942.008640         0.000000 /
+[ 5002.290267]  composer@2.1-se  1934    462144.161147    294406   112         0.000000     14751.598638         0.000000 /
+[ 5002.290267]  HwBinder:1931_2  1939         0.000000      7611    97         0.000000      1386.802047         0.000000 /
+[ 5002.290267]   Signal Catcher  2047    457184.296097        69   120         0.000000       105.966620         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2052     83086.916710        47   124         0.000000        19.897135         0.000000 /
+[ 5002.290267]  FinalizerDaemon  2053     83085.605876        23   124         0.000000         5.490448         0.000000 /
+[ 5002.290267]    ExUtils-P11-1  2136    114280.202944        42   130         0.000000       107.069104         0.000000 /
+[ 5002.290267]     sp-control-1  2927     83260.295406       950   122         0.000000       569.668959         0.000000 /
+[ 5002.290267]     ExUtils-P1-1  2942     83117.960874       139   130         0.000000        83.704067         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2051    143121.558663        87   124         0.000000        20.598706         0.000000 /
+[ 5002.290267]  FinalizerDaemon  2054    143135.947040        57   124         0.000000        23.881825         0.000000 /
+[ 5002.290267]  FinalizerWatchd  2056    148037.944717        13   124         0.000000         1.188461         0.000000 /
+[ 5002.290267]          SysUiBg  2352    460530.892082      1968   130         0.000000      5987.322326         0.000000 /
+[ 5002.290267]         TimeTick  2375    461199.863624       506   120         0.000000      2499.418206         0.000000 /
+[ 5002.290267]    Binder:2040_8  4908    461197.425645       575   120         0.000000       787.288606         0.000000 /
+[ 5002.290267]  ReferenceQueueD  5219     91539.567657         2   124         0.000000         0.660468         0.000000 /
+[ 5002.290267]   HeapTaskDaemon  5222     91539.332895         2   124         0.000000         0.230353         0.000000 /
+[ 5002.290267]  m.android.phone  2203    462073.721085     34145   120         0.000000     26723.640906         0.000000 /
+[ 5002.290267]   Signal Catcher  2213    461722.302952       135   120         0.000000       197.191074         0.000000 /
+[ 5002.290267]  FinalizerWatchd  2220    441322.802919        33   124         0.000000        47.780393         0.000000 /
+[ 5002.290267]  HwBinder:2203_1  2351    461937.416675      1431   120         0.000000      8088.928570         0.000000 /
+[ 5002.290267]  id.ext.services  2300    209902.331289       142   120         0.000000        43.781921         0.000000 /
+[ 5002.290267]  Jit thread pool  2305     27495.355779         9   129         0.000000         4.052915         0.000000 /
+[ 5002.290267]   Signal Catcher  2306      5617.539721         7   120         0.000000         0.204546         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  2307     95219.137757        21   120         0.000000        15.876161         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2308      5621.236416         3   124         0.000000         0.334617         0.000000 /
+[ 5002.290267]  FinalizerWatchd  2310      5620.253142         2   124         0.000000         0.185048         0.000000 /
+[ 5002.290267]  queued-work-loo  2747     10041.371674         6   118         0.000000         0.418297         0.000000 /
+[ 5002.290267]  .gms.persistent  2418    461987.209068     28670   120         0.000000     15579.554407         0.000000 /
+[ 5002.290267]  Jit thread pool  2424    458111.475401      3821   129         0.000000      4014.380402         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  2426     95219.121442        30   120         0.000000        19.180392         0.000000 /
+[ 5002.290267]  FinalizerWatchd  2429    458552.828709        35   124         0.000000         3.437828         0.000000 /
+[ 5002.290267]   HeapTaskDaemon  2430    458171.482730       954   124         0.000000      4845.504379         0.000000 /
+[ 5002.290267]    Binder:2418_1  2431    444167.796369      2391   120         0.000000       554.217193         0.000000 /
+[ 5002.290267]    Binder:2418_2  2432    444168.163860      2844   120         0.000000      1476.600813         0.000000 /
+[ 5002.290267]    Binder:2418_3  2433    444167.785571      1861   120         0.000000       472.740331         0.000000 /
+[ 5002.290267]    Profile Saver  2446    457963.769253       869   129         0.000000      2250.316334         0.000000 /
+[ 5002.290267]  GlobalScheduler  2495    461985.751578      5451   120         0.000000      1023.861069         0.000000 /
+[ 5002.290267]  ConnectivityThr  2828    115059.797935        51   120         0.000000        12.525534         0.000000 /
+[ 5002.290267]    Binder:2418_5  3038    461986.835129      1425   120         0.000000       811.739386         0.000000 /
+[ 5002.290267]    Binder:2418_7  3061    444167.790783      2433   120         0.000000      1132.208907         0.000000 /
+[ 5002.290267]  netscheduler-qu  3180    440018.449239      2198   130         0.000000      1684.597920         0.000000 /
+[ 5002.290267]        FlpThread  3226    461987.448808     49387   120         0.000000     29899.145139         0.000000 /
+[ 5002.290267]  GoogleLocationS  3370    461987.812294      7856   129         0.000000      6511.257611         0.000000 /
+[ 5002.290267]    Binder:2418_9  3695    444167.786293      2643   120         0.000000      1503.425070         0.000000 /
+[ 5002.290267]    Binder:2418_A  3936    444167.793082      2585   120         0.000000      1686.083640         0.000000 /
+[ 5002.290267]    Binder:2418_B  3955    444167.784811      1346   120         0.000000      1355.050846         0.000000 /
+[ 5002.290267]        GCMWriter  5449    348817.054042        80   120         0.000000       612.934145         0.000000 /
+[ 5002.290267]    Binder:2418_E  6100    444167.797789      1264   120         0.000000      2059.931606         0.000000 /
+[ 5002.290267]   Binder:2418_10  6612    443889.201367       106   120         0.000000        36.499319         0.000000 /
+[ 5002.290267]  gle.android.gms  2590    458553.664398      4539   120         0.000000      6714.197767         0.000000 /
+[ 5002.290267]   Signal Catcher  2596      9408.263061         1   120         0.000000         0.177151         0.000000 /
+[ 5002.290267]    Binder:2590_3  2608    229967.436150       782   120         0.000000       248.990531         0.000000 /
+[ 5002.290267]     FileObserver  2619      9747.197884         2   120         0.000000         0.136578         0.000000 /
+[ 5002.290267]  GlobalDispatchi  2662    443459.590956        42   129         0.000000       433.995973         0.000000 /
+[ 5002.290267]  queued-work-loo  2848    441158.822895       123   118         0.000000        39.073404         0.000000 /
+[ 5002.290267]    Binder:2590_4  3045    457954.037512       226   120         0.000000       102.901879         0.000000 /
+[ 5002.290267]    Binder:2590_6  3217    229967.632643       934   120         0.000000       270.806186         0.000000 /
+[ 5002.290267]    Binder:2590_7  3221    229967.578727       225   120         0.000000        94.757302         0.000000 /
+[ 5002.290267]        Thread-15  3737     85000.700086        28   130         0.000000         5.706099         0.000000 /
+[ 5002.290267]        Thread-18  3740     75032.416305        53   130         0.000000        66.380927         0.000000 /
+[ 5002.290267]    Binder:2590_A  3975    457953.917832      1142   120         0.000000       423.579377         0.000000 /
+[ 5002.290267]       CronetInit  3998    115485.026807       122   120         0.000000        40.475398         0.000000 /
+[ 5002.290267]      ChromiumNet  4002    115110.562727        21   130         0.000000         4.561057         0.000000 /
+[ 5002.290267]  Network File Th  4010     20644.565903         5   120         0.000000         0.095641         0.000000 /
+[ 5002.290267]    Binder:2590_C  6367    459113.968311        68   120         0.000000       110.688901         0.000000 /
+[ 5002.290267]    Binder:2620_5  2846     22355.684722       450   120         0.000000        67.036592         0.000000 /
+[ 5002.290267]    Binder:2620_7  3121     22355.699159       563   120         0.000000        61.168562         0.000000 /
+[ 5002.290267]    Binder:2620_B  3411     71526.551717       508   120         0.000000        62.839721         0.000000 /
+[ 5002.290267]   Signal Catcher  2654      9884.400857         1   120         0.000000         0.263416         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2658      9888.240985         8   124         0.000000         0.365579         0.000000 /
+[ 5002.290267]  FinalizerDaemon  2659      9904.470053         6   124         0.000000         0.369194         0.000000 /
+[ 5002.290267]  FinalizerWatchd  2660      9893.586220         2   124         0.000000         0.287670         0.000000 /
+[ 5002.290267]  queued-work-loo  3629     17736.569768         7   118         0.000000         0.607119         0.000000 /
+[ 5002.290267]   com.android.se  2669    457179.739110        81   120         0.000000        55.431281         0.000000 /
+[ 5002.290267]  Jit thread pool  2677    457180.860800         4   129         0.000000         1.364448         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  2679    457179.593566        29   120         0.000000        17.949472         0.000000 /
+[ 5002.290267]   HeapTaskDaemon  2683    457179.854491         8   124         0.000000         0.521726         0.000000 /
+[ 5002.290267]    Binder:2669_1  2684    457179.623272        12   120         0.000000         0.861781         0.000000 /
+[ 5002.290267]    Binder:2669_2  2688    457179.571223        14   120         0.000000         4.543217         0.000000 /
+[ 5002.290267]    Profile Saver  2709    457180.477436        18   129         0.000000         2.239002         0.000000 /
+[ 5002.290267]    Binder:2669_3  2736    457179.533669        10   120         0.000000         5.178848         0.000000 /
+[ 5002.290267]  queued-work-loo  2746    457179.543662         5   118         0.000000         0.353313         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2756     10047.401595         4   124         0.000000         0.542593         0.000000 /
+[ 5002.290267]   Signal Catcher  2777     10053.658208         1   120         0.000000         0.495419         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  2779     95217.057115        23   120         0.000000        78.988444         0.000000 /
+[ 5002.290267]  GAC_Executor[0]  2814     14283.678419        36   120         0.000000        11.289934         0.000000 /
+[ 5002.290267]     RenderThread  2931    446624.122720      2355   120         0.000000      6856.640496         0.000000 /
+[ 5002.290267]  reflection-plac  3005    147509.536417        58   120         0.000000        41.827790         0.000000 /
+[ 5002.290267]  GAC_Executor[1]  3065     14283.461976        39   120         0.000000         6.078923         0.000000 /
+[ 5002.290267]    Binder:2763_5  3359     27177.490459        48   120         0.000000        14.983189         0.000000 /
+[ 5002.290267]        hwuiTask1  4875    143150.899468       131   118         0.000000        37.240141         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  2795     95227.278083        29   120         0.000000        55.619739         0.000000 /
+[ 5002.290267]   HeapTaskDaemon  2801    220367.241944      1607   124         0.000000     16070.603900         0.000000 /
+[ 5002.290267]    Binder:2771_1  2802    396230.470683       375   120         0.000000       180.396251         0.000000 /
+[ 5002.290267]    Profile Saver  2809    238211.271232       399   129         0.000000      2029.121031         0.000000 /
+[ 5002.290267]     TimerThread0  2856    459729.314066      1030   120         0.000000      3947.685209         0.000000 /
+[ 5002.290267]  StartupSettings  2912     11165.734731        37   120         0.000000        22.031940         0.000000 /
+[ 5002.290267]  SearchSettings_  2929    237857.595925       327   120         0.000000       569.520315         0.000000 /
+[ 5002.290267]  ConnectivityThr  3006    115071.888641        65   120         0.000000        32.480650         0.000000 /
+[ 5002.290267]       CronetInit  3192    115485.024231        72   120         0.000000        24.663108         0.000000 /
+[ 5002.290267]  AndroidCellular  5453    115119.132880        10   120         0.000000         1.468159         0.000000 /
+[ 5002.290267]    Binder:2771_A  6345    269653.043314        24   120         0.000000        36.583068         0.000000 /
+[ 5002.290267]    Binder:2771_B  6363    269653.557468        50   120         0.000000       190.690703         0.000000 /
+[ 5002.290267]  ReferenceQueueD  2992    444185.217122      1954   124         0.000000      1434.313485         0.000000 /
+[ 5002.290267]   HeapTaskDaemon  2995    461985.796973      5319   124         0.000000      8902.670541         0.000000 /
+[ 5002.290267]    Binder:2982_6  3551    461988.190861      6909   120         0.000000      2180.481329         0.000000 /
+[ 5002.290267]    Binder:2982_C  5709    459124.294527      1623   120         0.000000       332.085779         0.000000 /
+[ 5002.290267]  FinalizerDaemon  3637     98442.224005        16   124         0.000000         1.877866         0.000000 /
+[ 5002.290267]  ConnectivityThr  3676    115247.294707        54   120         0.000000        31.268253         0.000000 /
+[ 5002.290267]     rtc-low-prio  3713     19110.661179         1   120         0.000000         0.028232         0.000000 /
+[ 5002.290267]  GAC_Executor[1]  3745     19566.723417         6   120         0.000000         0.582960         0.000000 /
+[ 5002.290267]    Binder:3625_5  3804     20503.721295        13   120         0.000000         0.414724         0.000000 /
+[ 5002.290267]  FinalizerWatchd  4864     32471.091065        13   124         0.000000       116.047674         0.000000 /
+[ 5002.290267]    Binder:4853_1  4866    209907.746150        73   120         0.000000        63.122913         0.000000 /
+[ 5002.290267]    Binder:4853_3  4873    209903.253807        20   120         0.000000        13.146194         0.000000 /
+[ 5002.290267]     RenderThread  4881     95509.901410        90   120         0.000000       123.121771         0.000000 /
+[ 5002.290267]  queued-work-loo  4884     30165.986705         6   118         0.000000         3.026219         0.000000 /
+[ 5002.290267]    Binder:5593_2  5606    214940.450790        14   120         0.000000         8.492936         0.000000 /
+[ 5002.290267]    Binder:5593_3  5607    228725.376781        55   120         0.000000        68.299684         0.000000 /
+[ 5002.290267]      kworker/2:0  5689    461841.301688       540   120         0.000000       139.222608         0.000000 /
+[ 5002.290267]      kworker/2:1  6090    410369.314153       662   120         0.000000       757.945712         0.000000 /
+[ 5002.290267]           logcat  6164    461985.966015      6466   120         0.000000      1607.125179         0.000000 /
+[ 5002.290267]  ndroid.keychain  6212    210861.794496       102   120         0.000000        58.124699         0.000000 /
+[ 5002.290267]    Binder:6212_2  6245    210863.017147         4   120         0.000000         3.990173         0.000000 /
+[ 5002.290267]  queued-work-loo  6259    210237.965622         2   118         0.000000         0.407626         0.000000 /
+[ 5002.290267]  mple.unpub_demo  6278    243776.961465       603   110         0.000000       849.355908         0.000000 /
+[ 5002.290267]   Signal Catcher  6288    211342.937801         2   120         0.000000         0.704337         0.000000 /
+[ 5002.290267]  ReferenceQueueD  6290    211346.978861         1   124         0.000000         0.483396         0.000000 /
+[ 5002.290267]  FinalizerDaemon  6291    211373.344079         3   124         0.000000         1.226215         0.000000 /
+[ 5002.290267]  FinalizerWatchd  6292    211375.813438         6   124         0.000000         0.548657         0.000000 /
+[ 5002.290267]    Binder:6278_2  6296    211590.463708        41   120         0.000000        29.881480         0.000000 /
+[ 5002.290267]             1.ui  6319    461986.246779      3519   119         0.000000     10993.696945         0.000000 /
+[ 5002.290267]      io.worker.1  6322    214105.616939         8   121         0.000000         0.288516         0.000000 /
+[ 5002.290267]      io.worker.3  6324    214105.616394         7   121         0.000000         0.218228         0.000000 /
+[ 5002.290267]      io.worker.4  6325    214105.619184         4   121         0.000000         0.103802         0.000000 /
+[ 5002.290267]  mple.unpub_demo  6326    461985.639954      3709   110         0.000000      1531.454853         0.000000 /
+[ 5002.290267]  Dart Profiler T  6327    462144.005328     57688   110         0.000000      5323.675465         0.000000 /
+[ 5002.290267]       DartWorker  6331    462144.009089      7818   110         0.000000     20206.582007         0.000000 /
+[ 5002.290267]     RenderThread  6332    216198.176653       143   110         0.000000       713.611534         0.000000 /
+[ 5002.290267]        hwuiTask1  6333    216088.352779        12   118         0.000000         4.229446         0.000000 /
+[ 5002.290267]       DartWorker  6387    462144.012612      6032   110         0.000000     14874.878201         0.000000 /
+[ 5002.290267]  ADB-JDWP Connec  6476    311172.599228         5   120         0.000000         8.904960         0.000000 /
+[ 5002.290267]   Signal Catcher  6515    353837.078786         2   120         0.000000        42.863769         0.000000 /
+[ 5002.290267]  FinalizerDaemon  6518    424406.210004        18   124         0.000000        92.837497         0.000000 /
+[ 5002.290267]    Profile Saver  6526    362283.645179        21   129         0.000000       715.949388         0.000000 /
+[ 5002.290267]   movies_logging  6528    440019.704090        11   130         0.000000        40.056686         0.000000 /
+[ 5002.290267]         Thread-4  6531    367278.377989         7   130         0.000000        15.847056         0.000000 /
+[ 5002.290267]  queued-work-loo  6540    369168.695767         6   118         0.000000        16.595676         0.000000 /
+[ 5002.290267]        network-1  6544    369514.886950         3   130         0.000000        16.097767         0.000000 /
+[ 5002.290267]        network-2  6545    369513.960138         4   130         0.000000         0.983720         0.000000 /
+[ 5002.290267]        network-3  6546    369519.000372         6   130         0.000000         9.577763         0.000000 /
+[ 5002.290267]  ConnectivityThr  6550    369562.718812         3   120         0.000000         2.772113         0.000000 /
+[ 5002.290267]  GAC_Executor[0]  6552    370038.503820         8   120         0.000000         1.531418         0.000000 /
+[ 5002.290267]           sync-1  6555    369864.547785         3   130         0.000000         5.860403         0.000000 /
+[ 5002.290267]         Primes-1  6557    371942.546836        21   120         0.000000       861.450991         0.000000 /
+[ 5002.290267]    Okio Watchdog  6588    425001.676820         5   120         0.000000        61.196379         0.000000 /
+[ 5002.290267]     kworker/u8:1  6561    441212.596302      2493   120         0.000000       513.171414         0.000000 /
+[ 5002.290267]     kworker/u8:2  6578    461150.865612      5206   120         0.000000       304.702845         0.000000 /
+[ 5002.290267]     kworker/u9:2  6605    461202.561273       190   100         0.000000        37.011371         0.000000 /
+[ 5002.290267]     kworker/u8:0  6614    462144.439220      2462   120         0.000000       183.912555         0.000000 /
+[ 5002.290267]    Binder:6676_3  6759    459112.400903        31   120         0.000000         1.767029         0.000000 /
+[ 5003.153880] 
+[ 5003.154512] cpu#3, 2496.251 MHz
+[ 5003.155349]   .nr_running                    : 1
+[ 5003.156424]   .load                          : 2501
+[ 5003.157576]   .nr_switches                   : 967782
+[ 5003.159188]   .nr_load_updates               : 222473
+[ 5003.160506]   .nr_uninterruptible            : -811
+[ 5003.161654]   .next_balance                  : 4295.437631
+[ 5003.163104]   .curr->pid                     : 2367
+[ 5003.164370]   .clock                         : 5003160.039816
+[ 5003.165722]   .clock_task                    : 5003160.039816
+[ 5003.167331]   .cpu_load[0]                   : 2461
+[ 5003.168735]   .cpu_load[1]                   : 2468
+[ 5003.169764]   .cpu_load[2]                   : 2470
+[ 5003.170588]   .cpu_load[3]                   : 2475
+[ 5003.171425]   .cpu_load[4]                   : 2475
+[ 5003.172415] 
+[ 5003.172415] cfs_rq[3]:/
+[ 5003.173271]   .exec_clock                    : 0.000000
+[ 5003.174146]   .MIN_vruntime                  : 0.000001
+[ 5003.175023]   .min_vruntime                  : 564991.749563
+[ 5003.176021]   .max_vruntime                  : 0.000001
+[ 5003.177138]   .spread                        : 0.000000
+[ 5003.178222]   .spread0                       : 71510.813044
+[ 5003.179340]   .nr_spread_over                : 0
+[ 5003.180106]   .nr_running                    : 1
+[ 5003.180553]   .load                          : 2501
+[ 5003.180553]   .load_avg                      : 2464
+[ 5003.180553]   .runnable_load_avg             : 2464
+[ 5003.180553]   .util_avg                      : 1007
+[ 5003.180553]   .removed_load_avg              : 0
+[ 5003.180553]   .removed_util_avg              : 0
+[ 5003.180553]   .tg_load_avg_contrib           : 0
+[ 5003.180553]   .tg_load_avg                   : 0
+[ 5003.180553] 
+[ 5003.180553] rt_rq[3]:/
+[ 5003.180553]   .rt_nr_running                 : 0
+[ 5003.180553]   .rt_throttled                  : 0
+[ 5003.180553]   .rt_time                       : 0.082138
+[ 5003.180553]   .rt_runtime                    : 1000.000000
+[ 5003.180553] 
+[ 5003.180553] dl_rq[3]:
+[ 5003.180553]   .dl_nr_running                 : 0
+[ 5003.180553] 
+[ 5003.180553] runnable tasks:
+[ 5003.180553]             task   PID         tree-key  switches  prio     wait-time             sum-exec        sum-sleep
+[ 5003.180553] ----------------------------------------------------------------------------------------------------------
+[ 5003.180553]      migration/3    19         0.000000       449     0         0.000000        11.693726         0.000000 /
+[ 5003.180553]      ksoftirqd/3    20    550564.192198      3231   120         0.000000       402.776059         0.000000 /
+[ 5003.180553]     kworker/3:0H    22      3631.780976         9   100         0.000000         0.045667         0.000000 /
+[ 5003.180553]            netns    23         8.010630         2   100         0.000000         0.059211         0.000000 /
+[ 5003.180553]       khungtaskd   382      2816.317506         3   120         0.000000         0.023952         0.000000 /
+[ 5003.180553]          kblockd   388        98.110511         3   100         0.000000         0.000000         0.000000 /
+[ 5003.180553]  acpi_thermal_pm   794       880.634493         2   100         0.000000         0.021953         0.000000 /
+[ 5003.180553]           bioset   841       918.173557         2   100         0.000000         0.033190         0.000000 /
+[ 5003.180553]           bioset   908      1098.469138         2   100         0.000000         0.021585         0.000000 /
+[ 5003.180553]       scsi_tmf_0   949      1193.437296         2   100         0.000000         0.022495         0.000000 /
+[ 5003.180553]  ext4-rsv-conver  1140      1581.776129         2   100         0.000000         0.023574         0.000000 /
+[ 5003.180553]             logd  1564      3031.959894        68   130         0.000000        22.851383         0.000000 /
+[ 5003.180553]      logd.daemon  1571    214641.814979        95   130         0.000000       203.101707         0.000000 /
+[ 5003.180553]      logd.reader  1572    544951.189110        51   130         0.000000        36.033528         0.000000 /
+[ 5003.180553]      logd.auditd  1577    239359.369176        66   130         0.000000       214.013029         0.000000 /
+[ 5003.180553]    Binder:1569_4  1615      8531.571010        10   120         0.000000         0.638090         0.000000 /
+[ 5003.180553]           writer  4858        -2.569448      7127    96         0.000000       455.416607         0.000000 /
+[ 5003.180553]  cas@1.0-service  1623      3181.765420        49   120         0.000000        29.756392         0.000000 /
+[ 5003.180553]             lmkd  1641         0.000000     14468    98         0.000000      3570.970658         0.000000 /
+[ 5003.180553]               sh  1647      3196.438560        13   120         0.000000        13.878799         0.000000 /
+[ 5003.180553]           bioset  1692      3385.466238         2   100         0.000000         0.022167         0.000000 /
+[ 5003.180553]       kcryptd_io  1693      3388.822339         2   100         0.000000         0.023409         0.000000 /
+[ 5003.180553]          kcryptd  1695    279327.340028         4   100         0.000000        22.950070         0.000000 /
+[ 5003.180553]   HeapTaskDaemon  6513    403982.731113         1   124         0.000000         3.183642         0.000000 /
+[ 5003.180553]    Binder:1748_1  1767     37859.059840       543   120         0.000000        62.428564         0.000000 /
+[ 5003.180553]             netd  1808    546337.864301       336   120         0.000000      1269.660766         0.000000 /
+[ 5003.180553]             netd  1814      3622.894034         1   120         0.000000         0.018160         0.000000 /
+[ 5003.180553]    Binder:1754_1  1817      3622.525061         1   120         0.000000         0.083805         0.000000 /
+[ 5003.180553]    Binder:1754_3  1819      3631.342873         6   120         0.000000         6.321893         0.000000 /
+[ 5003.180553]         storaged  1756      3524.751767        15   130         0.000000        10.193601         0.000000 /
+[ 5003.180553]     kworker/3:1H  1835    549991.302327       543   100         0.000000        11.879032         0.000000 /
+[ 5003.180553]        ipv6proxy  1885    546137.096658       392   120         0.000000       974.479765         0.000000 /
+[ 5003.180553]  FinalizerDaemon  1904    548968.727841       220   124         0.000000       259.108673         0.000000 /
+[ 5003.180553]       android.fg  1925    549640.544757      2037   120         0.000000      7402.962694         0.000000 /
+[ 5003.180553]  TaskSnapshotPer  2024    240192.250745       541   130         0.000000      1291.323309         0.000000 /
+[ 5003.180553]  LazyTaskWriterT  2026    239903.590583       126   130         0.000000        59.538910         0.000000 /
+[ 5003.180553]  OkHttp Connecti  6621    546071.219098         1   120         0.000000         0.505043         0.000000 /
+[ 5003.180553]  HwBinder:1931_1  1936         0.000000      2797    97         0.000000       466.699913         0.000000 /
+[ 5003.180553]  FinalizerWatchd  2055     98220.278164        16   124         0.000000         1.415279         0.000000 /
+[ 5003.180553]     ExUtils-P9-1  2219     93068.031637       585   130         0.000000       644.179803         0.000000 /
+[ 5003.180553]  GAC_Executor[1]  2852     95208.413327        43   120         0.000000         5.770541         0.000000 /
+[ 5003.180553]    ExUtils-P10-1  2893     95405.477511        97   130         0.000000        68.596136         0.000000 /
+[ 5003.180553]   DFacilitator-1  4657    108226.875382       254   122         0.000000       226.154883         0.000000 /
+[ 5003.180553]     ExUtils-P6-1  4694     28627.516965        40   126         0.000000        22.977828         0.000000 /
+[ 5003.180553]  Recents-HighRes  2282      4600.513246         1   131         0.000000         0.098013         0.000000 /
+[ 5003.180553] R   RenderThread  2367    565039.568629      7171   116         0.000000    137992.188604         0.000000 /
+[ 5003.180553]  pool-3-thread-1  2455      5379.253558         6   120         0.000000         0.436803         0.000000 /
+[ 5003.180553]         Thread-2  2580     21440.364856        34   120         0.000000        17.824052         0.000000 /
+[ 5003.180553]  FinalizerDaemon  2309      4628.837144         1   124         0.000000         0.192471         0.000000 /
+[ 5003.180553]   HeapTaskDaemon  2311     16814.832862         3   124         0.000000         0.306801         0.000000 /
+[ 5003.180553]    Binder:2300_1  2312     10947.729652        11   120         0.000000         2.287240         0.000000 /
+[ 5003.180553]    Binder:2300_2  2314     30128.425292        13   120         0.000000         4.557528         0.000000 /
+[ 5003.180553]    Profile Saver  2324      6814.302985        16   129         0.000000         3.361941         0.000000 /
+[ 5003.180553]    Binder:2300_3  2745    235492.571260        27   120         0.000000        15.472678         0.000000 /
+[ 5003.180553]  GlobalDispatchi  2463    547902.612181       365   129         0.000000       309.738411         0.000000 /
+[ 5003.180553]  GoogleApiHandle  2470    548064.730509      2339   129         0.000000      2511.842309         0.000000 /
+[ 5003.180553]    Binder:2418_4  2824    548956.893658      4475   120         0.000000      1966.129566         0.000000 /
+[ 5003.180553]      highpool[0]  2841     29966.976246        61   129         0.000000        11.920800         0.000000 /
+[ 5003.180553]      highpool[2]  3103    548031.924120       410   129         0.000000        74.971268         0.000000 /
+[ 5003.180553]        Thread-15  3308     84097.980575        88   130         0.000000        19.111606         0.000000 /
+[ 5003.180553]        MSMuxTR-0  3414     16898.115158         9   120         0.000000         0.284120         0.000000 /
+[ 5003.180553]  pool-70-thread-  3499     17286.526784        13   120         0.000000         2.973523         0.000000 /
+[ 5003.180553]    Okio Watchdog  3661    186590.980172        30   120         0.000000         4.275958         0.000000 /
+[ 5003.180553]    Binder:2418_8  3693    548957.037288       908   120         0.000000      1373.681870         0.000000 /
+[ 5003.180553]      lowpool[13]  5244    548018.588884       764   130         0.000000       601.085481         0.000000 /
+[ 5003.180553]      lowpool[18]  6343    548030.537260       757   130         0.000000      4210.547106         0.000000 /
+[ 5003.180553]  ADB-JDWP Connec  2597    107029.831057        27   120         0.000000         9.682240         0.000000 /
+[ 5003.180553]      highpool[2]  3576     24624.038966       139   129         0.000000        30.578452         0.000000 /
+[ 5003.180553]        Thread-14  3736     20176.849731         3   130         0.000000         0.188891         0.000000 /
+[ 5003.180553]    Binder:2590_B  4804    548952.552377        54   120         0.000000       115.878422         0.000000 /
+[ 5003.180553]       lowpool[7]  6262    240856.310603        54   130         0.000000        22.825888         0.000000 /
+[ 5003.180553]  ADB-JDWP Connec  2627    107025.652375        36   120         0.000000        11.939055         0.000000 /
+[ 5003.180553]    Profile Saver  2639     15099.447755         7   129         0.000000         1.340360         0.000000 /
+[ 5003.180553]    Binder:2620_9  3291     83378.455361       418   120         0.000000        40.756855         0.000000 /
+[ 5003.180553]    Binder:2620_A  3358    354828.536449       687   120         0.000000       132.542164         0.000000 /
+[ 5003.180553]    Binder:2620_C  3550     83378.639203       592   120         0.000000        66.070420         0.000000 /
+[ 5003.180553]    Binder:2620_D  3754     83378.473917       383   120         0.000000        39.090132         0.000000 /
+[ 5003.180553]  Jit thread pool  2653     12765.113512        47   129         0.000000        16.161097         0.000000 /
+[ 5003.180553]   HeapTaskDaemon  2759     10958.555320         2   124         0.000000         0.098091         0.000000 /
+[ 5003.180553]    Binder:2739_1  2760     10960.099005         4   120         0.000000         1.674744         0.000000 /
+[ 5003.180553]  ReferenceQueueD  2780    235607.350465        98   124         0.000000        32.570229         0.000000 /
+[ 5003.180553]  FinalizerDaemon  2781    235605.618953        53   124         0.000000        24.636582         0.000000 /
+[ 5003.180553]  FinalizerWatchd  2782    235603.956711        16   124         0.000000         3.419982         0.000000 /
+[ 5003.180553]   HeapTaskDaemon  2783    239808.938779       487   124         0.000000       564.877329         0.000000 /
+[ 5003.180553]  GoogleApiHandle  2815    274607.987052       152   129         0.000000        96.645252         0.000000 /
+[ 5003.180553]   UiThreadHelper  2875    240005.021462       244   118         0.000000        80.177778         0.000000 /
+[ 5003.180553]  Recents-HighRes  2878    240009.975297        11   131         0.000000         2.257534         0.000000 /
+[ 5003.180553]  qsb-experiments  2895     15023.413646        28   120         0.000000         6.576968         0.000000 /
+[ 5003.180553]        remote-ui  2944     13074.090719         8   120         0.000000         0.681948         0.000000 /
+[ 5003.180553]  reflection-thre  2981    237053.950591      1233   120         0.000000       947.146359         0.000000 /
+[ 5003.180553]  queued-work-loo  3122    159060.431147        84   118         0.000000        53.777749         0.000000 /
+[ 5003.180553]  ReferenceQueueD  2796    241193.118298       190   124         0.000000       137.436211         0.000000 /
+[ 5003.180553]  FinalizerWatchd  2800    243330.668648       191   124         0.000000        32.675683         0.000000 /
+[ 5003.180553]    Binder:2771_2  2805    308088.120750       121   120         0.000000        30.977707         0.000000 /
+[ 5003.180553]  queued-work-loo  2961    273879.413214        21   118         0.000000         4.290524         0.000000 /
+[ 5003.180553]     RenderThread  3112    241187.028134       470   120         0.000000      1022.141840         0.000000 /
+[ 5003.180553]  GcoreGoogleApiC  3215    243495.682175       297   120         0.000000       270.216864         0.000000 /
+[ 5003.180553]  GAC_Executor[1]  3254    240294.735129       136   120         0.000000        57.912650         0.000000 /
+[ 5003.180553]  TaskSchedulerSe  3260     14522.649626         3   120         0.000000         0.277051         0.000000 /
+[ 5003.180553]      ChromiumNet  3266    127890.675254        67   118         0.000000        13.502141         0.000000 /
+[ 5003.180553]  Network File Th  3273     14559.663379         1   120         0.000000         0.065944         0.000000 /
+[ 5003.180553]  GoogleApiHandle  3606    243370.598033       303   129         0.000000       200.170120         0.000000 /
+[ 5003.180553]    Binder:2771_7  5098    308084.317857        85   120         0.000000        22.213513         0.000000 /
+[ 5003.180553]    Binder:2771_9  5713    308084.426740        79   120         0.000000        66.212857         0.000000 /
+[ 5003.180553]    Binder:2771_C  6430    548958.084654        47   120         0.000000       424.387325         0.000000 /
+[ 5003.180553]     UserFacing20  6761    548992.795080         1   120         0.000000         7.047478         0.000000 /
+[ 5003.180553]  e.process.gapps  2982    235492.483816       141   120         0.000000        60.555912         0.000000 /
+[ 5003.180553]    Binder:2982_1  2996    548957.198807      1592   120         0.000000       823.940901         0.000000 /
+[ 5003.180553]    Binder:2982_2  3000    548957.092411      2150   120         0.000000       315.887732         0.000000 /
+[ 5003.180553]  RefQueueWorker@  3031     13459.388903         1   120         0.000000         0.216858         0.000000 /
+[ 5003.180553]    Binder:2982_3  3033    540897.412453      2335   120         0.000000      2315.432027         0.000000 /
+[ 5003.180553]    Binder:2982_5  3360    540899.869725      1429   120         0.000000       699.748947         0.000000 /
+[ 5003.180553]    Binder:2982_F  6128    548957.086251      1299   120         0.000000       134.326008         0.000000 /
+[ 5003.180553]  gle.android.ims  3625    238567.871460      1127   120         0.000000       423.320651         0.000000 /
+[ 5003.180553]   Signal Catcher  3631     18624.594417         1   120         0.000000         0.195735         0.000000 /
+[ 5003.180553]  ReferenceQueueD  3636    112012.585729        13   124         0.000000         6.240918         0.000000 /
+[ 5003.180553]  FinalizerWatchd  3638    112596.939721        13   124         0.000000         2.034330         0.000000 /
+[ 5003.180553]    Binder:3625_2  3646    110858.817271       158   120         0.000000        21.971257         0.000000 /
+[ 5003.180553]  GoogleApiHandle  3670    127906.866523        70   129         0.000000        23.673976         0.000000 /
+[ 5003.180553]    Binder:3625_6  3965    238563.722224       157   120         0.000000        34.497268         0.000000 /
+[ 5003.180553]   Signal Catcher  3964     21046.406443         1   120         0.000000         0.112296         0.000000 /
+[ 5003.180553]  FinalizerWatchd  3969     21054.123959         6   124         0.000000         0.060041         0.000000 /
+[ 5003.180553]   HeapTaskDaemon  3970     26276.247961         9   124         0.000000         0.290915         0.000000 /
+[ 5003.180553]  GoogleApiHandle  4011     30227.292464        60   129         0.000000        13.119932         0.000000 /
+[ 5003.180553]   Signal Catcher  4860     31035.497408         4   120         0.000000         0.523429         0.000000 /
+[ 5003.180553]  ADB-JDWP Connec  4861    107026.451431        25   120         0.000000        11.516018         0.000000 /
+[ 5003.180553]  FinalizerDaemon  4863     34006.099240         4   124         0.000000         1.061577         0.000000 /
+[ 5003.180553]    Binder:4853_2  4868     31036.129968        10   120         0.000000        11.646906         0.000000 /
+[ 5003.180553]  id.defcontainer  5593    240522.802629       291   120         0.000000        88.404768         0.000000 /
+[ 5003.180553]  Jit thread pool  5598    148592.959280         2   129         0.000000         0.358848         0.000000 /
+[ 5003.180553]   Signal Catcher  5599    148598.147669         1   120         0.000000         0.188392         0.000000 /
+[ 5003.180553]  ADB-JDWP Connec  5600    148603.425508         6   120         0.000000         0.277842         0.000000 /
+[ 5003.180553]  ReferenceQueueD  5601    241792.005964         9   124         0.000000         8.601331         0.000000 /
+[ 5003.180553]    Profile Saver  5608    154167.323653        11   129         0.000000         8.828322         0.000000 /
+[ 5003.180553]  queued-work-loo  5697    155029.873424         4   118         0.000000         0.576719         0.000000 /
+[ 5003.180553]      kworker/3:1  6059    564895.417289      2230   120         0.000000       870.923689         0.000000 /
+[ 5003.180553]               sh  6162    203806.383933         1   120         0.000000         6.491797         0.000000 /
+[ 5003.180553]  Jit thread pool  6217    235632.682508         2   129         0.000000         0.963124         0.000000 /
+[ 5003.180553]   Signal Catcher  6219    235647.184536         2   120         0.000000         0.372788         0.000000 /
+[ 5003.180553]  FinalizerWatchd  6228    241863.348377        10   124         0.000000        13.726548         0.000000 /
+[ 5003.180553]  Jit thread pool  6287    279745.298069        51   129         0.000000        39.881819         0.000000 /
+[ 5003.180553]    Binder:6278_1  6295    239971.118108        20   120         0.000000        21.512677         0.000000 /
+[ 5003.180553]  pool-1-thread-1  6303    239100.457302        11   120         0.000000        33.470674         0.000000 /
+[ 5003.180553]         1.raster  6320    279745.573078       222   115         0.000000      2316.087958         0.000000 /
+[ 5003.180553]             1.io  6321    279740.701193        92   121         0.000000        98.373145         0.000000 /
+[ 5003.180553]      io.worker.2  6323    239402.972927         5   121         0.000000         0.257560         0.000000 /
+[ 5003.180553]       DartWorker  6330    550401.011124       473   110         0.000000     15640.767603         0.000000 /
+[ 5003.180553]  id.partnersetup  6469    357928.062202       442   120         0.000000      1355.389511         0.000000 /
+[ 5003.180553]   Signal Catcher  6475    349719.722338         1   120         0.000000         4.068787         0.000000 /
+[ 5003.180553]  FinalizerWatchd  6479    357938.870459         8   124         0.000000         4.483854         0.000000 /
+[ 5003.180553]     kworker/u9:3  6508    550322.496667       356   100         0.000000       157.988507         0.000000 /
+[ 5003.180553]  Jit thread pool  6514    429015.109002        25   129         0.000000       112.785198         0.000000 /
+[ 5003.180553]  ReferenceQueueD  6517    529080.275022        24   124         0.000000       138.208544         0.000000 /
+[ 5003.180553]    Binder:6509_1  6521    496579.916150        23   120         0.000000       128.015124         0.000000 /
+[ 5003.180553]    Binder:6509_2  6522    496587.738905        60   120         0.000000       468.902449         0.000000 /
+[ 5003.180553]         Thread-5  6532    425946.707984         8   130         0.000000        12.539717         0.000000 /
+[ 5003.180553]         Thread-8  6535    425954.686127         8   130         0.000000         1.571436         0.000000 /
+[ 5003.180553]         Thread-9  6536    425964.102924        12   130         0.000000         1.844446         0.000000 /
+[ 5003.180553]  PlayEventLogger  6543    529416.973702       164   130         0.000000      4801.783908         0.000000 /
+[ 5003.180553]  GoogleApiHandle  6551    431663.295903        20   129         0.000000       170.491464         0.000000 /
+[ 5003.180553]  pool-6-thread-1  6553    429461.839837         7   120         0.000000        24.640998         0.000000 /
+[ 5003.180553]  GAC_Executor[1]  6556    429516.877543         3   120         0.000000         0.637654         0.000000 /
+[ 5003.180553]    Binder:6509_4  6558    547771.249806        22   120         0.000000        39.746273         0.000000 /
+[ 5003.180553]      kworker/3:2  6560    434287.341603         2   120         0.000000         0.044758         0.000000 /
+[ 5003.180553]    Binder:6630_2  6655    548956.841328        22   120         0.000000         4.186660         0.000000 /
+[ 5003.559509] 
+[ 5003.563177] sysrq: SysRq : Show backtrace of all active CPUs
+[ 5003.564571] Sending NMI to all CPUs:
+[ 5003.566514] NMI backtrace for cpu 0
+[ 5003.567319] CPU: 0 PID: 1742 Comm: surfaceflinger Not tainted 4.4.124+ #1
+[ 5003.568941] Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-1.11.1-0-g0551a4be2c-prebuilt.qemu-project.org 04/01/2014
+[ 5003.571359] task: ffff88004a843c00 task.stack: ffff88004986c000
+[ 5003.572576] RIP: 0010:[<ffffffff86b2e4e4>]  [<ffffffff86b2e4e4>] transfer_max_buffers+0x22b/0x2c4
+[ 5003.574215] RSP: 0018:ffff88004986f280  EFLAGS: 00000206
+[ 5003.575280] RAX: 0000000000000002 RBX: 000000002b241000 RCX: 0000160000000000
+[ 5003.576828] RDX: ffffc9000013c000 RSI: 0000000000001000 RDI: 000000000000007f
+[ 5003.578305] RBP: ffff88004986fd70 R08: 000000000000007b R09: 0000000000001000
+[ 5003.579653] R10: ffff88003dc36080 R11: ffff88003e364000 R12: 0000000000000080
+[ 5003.581192] R13: 0000000000000000 R14: 0000000000000080 R15: ffff88004986f6b8
+[ 5003.582560] FS:  00007a58b2fcc5e0(0000) GS:ffff88005fc00000(0000) knlGS:0000000000000000
+[ 5003.584007] CS:  0010 DS: 0000 ES: 0000 CR0: 000000008005003b
+[ 5003.585266] CR2: 00007fc0c0babe30 CR3: 000000003e755000 CR4: 00000000000406b0
+[ 5003.586809] Stack:
+[ 5003.587184]  00007a58af67f000 0000100000001000 ffff88003dc36080 ffff88004986fdd4
+[ 5003.588660]  00007a58af680000 ffff88004986fdd0 0100000000000000 ffff88003dc360b0
+[ 5003.590338]  ffffea000116a240 ffffea0000256740 ffffea00008aaf00 ffffea0000228140
+[ 5003.591959] Call Trace:
+[ 5003.592468]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.593728]  [<ffffffff867136df>] ? __mod_zone_page_state+0x7f/0x90
+[ 5003.595019]  [<ffffffff868ae120>] ? flex_array_get+0x49/0x61
+[ 5003.596073]  [<ffffffff86702d1e>] ? __alloc_pages_nodemask+0xf1/0x8f6
+[ 5003.597434]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.598558]  [<ffffffff8660b5f1>] ? sched_clock+0x9/0xd
+[ 5003.599735]  [<ffffffff86d481eb>] ? _raw_spin_lock_irqsave+0x25/0x46
+[ 5003.601187]  [<ffffffff868ae120>] ? flex_array_get+0x49/0x61
+[ 5003.602431]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.603920]  [<ffffffff868b731f>] ? debug_smp_processor_id+0x17/0x19
+[ 5003.605281]  [<ffffffff86708063>] ? __lru_cache_add+0x6d/0x82
+[ 5003.606574]  [<ffffffff86d47fde>] ? _raw_spin_unlock+0x11/0x23
+[ 5003.607832]  [<ffffffff8671ec95>] ? wp_page_copy.isra.80+0x3a6/0x3e5
+[ 5003.609257]  [<ffffffff86720501>] ? do_wp_page+0x43a/0x55c
+[ 5003.610376]  [<ffffffff868564b7>] ? context_struct_compute_av+0x351/0x374
+[ 5003.611698]  [<ffffffff86669f16>] ? get_parent_ip+0xd/0x3c
+[ 5003.612842]  [<ffffffff86722f2b>] ? handle_mm_fault+0xf5a/0xfdb
+[ 5003.614028]  [<ffffffff86669f16>] ? get_parent_ip+0xd/0x3c
+[ 5003.615198]  [<ffffffff86669fbd>] ? preempt_count_add+0x78/0x8b
+[ 5003.616512]  [<ffffffff86d47fde>] ? _raw_spin_unlock+0x11/0x23
+[ 5003.617882]  [<ffffffff8671d425>] ? follow_page_mask+0x46e/0x4bc
+[ 5003.619272]  [<ffffffff8671d8b1>] ? __get_user_pages+0x43e/0x58b
+[ 5003.620577]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.622056]  [<ffffffff867136df>] ? __mod_zone_page_state+0x7f/0x90
+[ 5003.623389]  [<ffffffff86702d1e>] ? __alloc_pages_nodemask+0xf1/0x8f6
+[ 5003.624652]  [<ffffffff8663cd54>] ? native_flush_tlb_others+0x139/0x15a
+[ 5003.626065]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.627416]  [<ffffffff868b731f>] ? debug_smp_processor_id+0x17/0x19
+[ 5003.628839]  [<ffffffff86708063>] ? __lru_cache_add+0x6d/0x82
+[ 5003.630077]  [<ffffffff86d47fde>] ? _raw_spin_unlock+0x11/0x23
+[ 5003.631248]  [<ffffffff8671ec95>] ? wp_page_copy.isra.80+0x3a6/0x3e5
+[ 5003.632559]  [<ffffffff86b2e678>] goldfish_pipe_read_write+0xfb/0x2be
+[ 5003.633979]  [<ffffffff86720501>] ? do_wp_page+0x43a/0x55c
+[ 5003.635239]  [<ffffffff86b2e856>] goldfish_pipe_read+0xb/0xd
+[ 5003.636364]  [<ffffffff86742d61>] __vfs_read+0x30/0xce
+[ 5003.637557]  [<ffffffff868415d3>] ? security_file_permission+0x91/0x9e
+[ 5003.638834]  [<ffffffff86743425>] ? rw_verify_area+0x79/0xcd
+[ 5003.639926]  [<ffffffff8674350a>] vfs_read+0x91/0x11c
+[ 5003.640980]  [<ffffffff86744069>] SyS_read+0x58/0xa7
+[ 5003.641911]  [<ffffffff86d486a1>] entry_SYSCALL_64_fastpath+0x1e/0x99
+[ 5003.643129] Code: 01 45 89 43 10 49 8b 52 18 19 c0 83 e0 02 83 c0 04 89 02 49 8b 42 18 c7 40 08 ff ff ff ff 49 8b 42 70 48 8b 50 30 41 8b 02 89 02 <49> 8b 42 18 31 db 48 8b 8d 28 f5 ff ff 48 8b bd 48 f5 ff ff 8b 
+[ 5003.646426] NMI backtrace for cpu 1
+[ 5003.647138] CPU: 1 PID: 2070 Comm: watchdog Not tainted 4.4.124+ #1
+[ 5003.648318] Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-1.11.1-0-g0551a4be2c-prebuilt.qemu-project.org 04/01/2014
+[ 5003.650546] task: ffff88003de48000 task.stack: ffff8800269f8000
+[ 5003.651726] RIP: 0010:[<ffffffff86631ff0>]  [<ffffffff86631ff0>] flat_send_IPI_mask+0x6d/0x80
+[ 5003.653226] RSP: 0018:ffff8800269fbd48  EFLAGS: 00000046
+[ 5003.654021] RAX: 000000000f000000 RBX: 0000000000000c00 RCX: 0000000000000000
+[ 5003.654945] RDX: 0000000000000c00 RSI: 0000000000000002 RDI: 0000000000000300
+[ 5003.655902] RBP: ffff8800269fbd68 R08: 0000000000000ff4 R09: 0000000000000000
+[ 5003.657483] R10: 0000732393fa6308 R11: ffffffff87558000 R12: 000000000f000000
+[ 5003.658973] R13: 0000000000000002 R14: 0000000000000282 R15: ffff8800269fbf20
+[ 5003.660445] FS:  00007323927c9588(0000) GS:ffff88005fc80000(0000) knlGS:0000732393fdcc00
+[ 5003.662205] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[ 5003.663364] CR2: 0000000012e57000 CR3: 000000003de02000 CR4: 00000000000406b0
+[ 5003.664698] Stack:
+[ 5003.665168]  0000000000000001 ffffffff8662f9cf 0000000000000004 0000000000012140
+[ 5003.666595]  ffff8800269fbd78 ffffffff8662f9e5 ffff8800269fbdb8 ffffffff868a2fc8
+[ 5003.668032]  0000000000000000 ffffffff87298cc0 0000000000000007 000000000000006c
+[ 5003.669501] Call Trace:
+[ 5003.670053]  [<ffffffff8662f9cf>] ? irq_force_complete_move+0x109/0x109
+[ 5003.671283]  [<ffffffff8662f9e5>] nmi_raise_cpu_backtrace+0x16/0x18
+[ 5003.672472]  [<ffffffff868a2fc8>] nmi_trigger_all_cpu_backtrace+0x12e/0x24f
+[ 5003.673869]  [<ffffffff8662fa0c>] arch_trigger_all_cpu_backtrace+0x14/0x16
+[ 5003.675102]  [<ffffffff869355a3>] sysrq_handle_showallcpus+0xe/0x10
+[ 5003.676256]  [<ffffffff86935bee>] __handle_sysrq+0x88/0x118
+[ 5003.677368]  [<ffffffff86935f7d>] write_sysrq_trigger+0x2a/0x30
+[ 5003.678528]  [<ffffffff8679e60a>] proc_reg_write+0x43/0x62
+[ 5003.679756]  [<ffffffff8679e5c7>] ? proc_reg_poll+0x54/0x54
+[ 5003.680893]  [<ffffffff86742e2f>] __vfs_write+0x30/0xd9
+[ 5003.681913]  [<ffffffff86847368>] ? selinux_file_permission+0x7e/0xe8
+[ 5003.683086]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.684515]  [<ffffffff8674364e>] vfs_write+0xb9/0x15d
+[ 5003.685524]  [<ffffffff86744110>] SyS_write+0x58/0xa7
+[ 5003.686665]  [<ffffffff86d486a1>] entry_SYSCALL_64_fastpath+0x1e/0x99
+[ 5003.687997] Code: 10 74 04 f3 90 eb f0 41 c1 e4 18 44 89 e0 89 04 25 10 c3 5f ff 44 89 ea 09 da 80 cf 04 41 83 fd 02 0f 44 d3 89 14 25 00 c3 5f ff <4c> 89 f7 57 9d 0f 1f 44 00 00 5b 41 5c 41 5d 41 5e 5d c3 55 48 
+[ 5003.691849] NMI backtrace for cpu 2
+[ 5003.692511] CPU: 2 PID: 6703 Comm: Binder:1896_18 Not tainted 4.4.124+ #1
+[ 5003.693910] Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-1.11.1-0-g0551a4be2c-prebuilt.qemu-project.org 04/01/2014
+[ 5003.696357] task: ffff8800057b8000 task.stack: ffff8800055a0000
+[ 5003.697501] RIP: 0010:[<ffffffff868a4cdc>]  [<ffffffff868a4cdc>] rb_next+0x2c/0x3a
+[ 5003.698968] RSP: 0018:ffff8800055a3b48  EFLAGS: 00000286
+[ 5003.700072] RAX: ffff8800010d1190 RBX: ffff880005665a00 RCX: 00000000000000c8
+[ 5003.701623] RDX: ffff8800010d1410 RSI: ffff880049d54028 RDI: ffff8800023c4b10
+[ 5003.703098] RBP: ffff8800055a3b48 R08: ffff88004afeaea0 R09: ffffffff86b33b25
+[ 5003.704328] R10: ffff880005665a00 R11: 0000000000000206 R12: ffff880049d54000
+[ 5003.705868] R13: ffff880005665800 R14: ffff880049d54020 R15: ffff88000565dca8
+[ 5003.707304] FS:  000073239436d588(0000) GS:ffff88005fd00000(0000) knlGS:00007323aae21800
+[ 5003.709011] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[ 5003.710202] CR2: 00007bf20030c000 CR3: 000000003de02000 CR4: 00000000000406b0
+[ 5003.711474] Stack:
+[ 5003.711785]  ffff8800055a3ba8 ffffffff86b33bf3 ffff88004afeaea0 ffff8800055a3c70
+[ 5003.712920]  ffff880003fb3648 000000018728af40 ffff880005665f80 ffff880005665a00
+[ 5003.714250]  ffff880003fb3600 ffff880049d54000 ffffc90006300aa4 00000000ffffffff
+[ 5003.715879] Call Trace:
+[ 5003.716378]  [<ffffffff86b33bf3>] binder_inc_ref_for_node+0x153/0x265
+[ 5003.717508]  [<ffffffff86b3711f>] binder_transaction+0xd36/0x1d8b
+[ 5003.718684]  [<ffffffff86b38927>] binder_thread_write+0x7b3/0xeee
+[ 5003.719648]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.720665]  [<ffffffff86b390fe>] binder_ioctl_write_read.constprop.43+0x9c/0x250
+[ 5003.722162]  [<ffffffff86b39447>] binder_ioctl+0x195/0x4e5
+[ 5003.723202]  [<ffffffff86849d23>] ? selinux_file_ioctl+0x139/0x17d
+[ 5003.724276]  [<ffffffff86753060>] do_vfs_ioctl+0x36e/0x430
+[ 5003.725350]  [<ffffffff8684166a>] ? security_file_ioctl+0x30/0x44
+[ 5003.726509]  [<ffffffff86753174>] SyS_ioctl+0x52/0x74
+[ 5003.727587]  [<ffffffff86d486a1>] entry_SYSCALL_64_fastpath+0x1e/0x99
+[ 5003.729081] Code: 31 c0 48 3b 3f 48 89 e5 74 2d 48 8b 47 08 48 85 c0 75 14 48 8b 07 48 83 e0 fc 74 19 48 3b 78 08 75 15 48 89 c7 eb ec 48 8b 50 10 <48> 85 d2 74 07 48 89 d0 eb f2 31 c0 5d c3 55 31 c0 48 3b 3f 48 
+[ 5003.732544] NMI backtrace for cpu 3
+[ 5003.733327] CPU: 3 PID: 2367 Comm: RenderThread Not tainted 4.4.124+ #1
+[ 5003.734531] Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-1.11.1-0-g0551a4be2c-prebuilt.qemu-project.org 04/01/2014
+[ 5003.737262] task: ffff880026abbc00 task.stack: ffff88003e4b4000
+[ 5003.738198] RIP: 0010:[<ffffffff86b2e4e4>]  [<ffffffff86b2e4e4>] transfer_max_buffers+0x22b/0x2c4
+[ 5003.739626] RSP: 0018:ffff88003e4b7280  EFLAGS: 00000206
+[ 5003.740932] RAX: 0000000000000027 RBX: 0000000019da9000 RCX: 0000160000000000
+[ 5003.742623] RDX: ffffc9000013c000 RSI: 0000000000001000 RDI: 000000000000007f
+[ 5003.744301] RBP: ffff88003e4b7d70 R08: 000000000000001d R09: 0000000000001000
+[ 5003.746004] R10: ffff88001d604a80 R11: ffff8800251b2000 R12: 0000000000000080
+[ 5003.747491] R13: 0000000000000000 R14: 0000000000000080 R15: ffff88003e4b76b8
+[ 5003.748985] FS:  0000732399f4e588(0000) GS:ffff88005fd80000(0000) knlGS:00007323aca50400
+[ 5003.750661] CS:  0010 DS: 0000 ES: 0000 CR0: 000000008005003b
+[ 5003.751547] CR2: 00007a58b2e40ef8 CR3: 000000002688a000 CR4: 00000000000406b0
+[ 5003.752696] Stack:
+[ 5003.753069]  000073239807f000 0000100000001000 ffff88001d604a80 ffff88003e4b7dd4
+[ 5003.754411]  0000732398080000 ffff88003e4b7dd0 01ff880000000000 ffff88001d604ab0
+[ 5003.755894]  ffffea0000673640 ffffea00006736c0 ffffea0000673700 ffffea0000672f00
+[ 5003.757226] Call Trace:
+[ 5003.757630]  [<ffffffff8688e86b>] ? bt_get+0x6e/0x1df
+[ 5003.758533]  [<ffffffff86679fac>] ? update_group_capacity+0x131/0x2b7
+[ 5003.759517]  [<ffffffff86682399>] ? wait_woken+0x74/0x74
+[ 5003.760464]  [<ffffffff868ae120>] ? flex_array_get+0x49/0x61
+[ 5003.761414]  [<ffffffff868ae141>] ? flex_array_get_ptr+0x9/0x18
+[ 5003.762572]  [<ffffffff8685653b>] ? type_attribute_bounds_av+0x61/0x1c2
+[ 5003.763804]  [<ffffffff8673bcc1>] ? __slab_alloc.isra.67.constprop.70+0x4c/0x65
+[ 5003.764818]  [<ffffffff86927956>] ? alloc_indirect.isra.9+0x16/0x40
+[ 5003.765827]  [<ffffffff868ae120>] ? flex_array_get+0x49/0x61
+[ 5003.766638]  [<ffffffff868ae120>] ? flex_array_get+0x49/0x61
+[ 5003.767443]  [<ffffffff868ae141>] ? flex_array_get_ptr+0x9/0x18
+[ 5003.768336]  [<ffffffff8685653b>] ? type_attribute_bounds_av+0x61/0x1c2
+[ 5003.769325]  [<ffffffff8660b5f1>] ? sched_clock+0x9/0xd
+[ 5003.770424]  [<ffffffff86d481eb>] ? _raw_spin_lock_irqsave+0x25/0x46
+[ 5003.771805]  [<ffffffff86d4800b>] ? _raw_spin_unlock_irqrestore+0x1b/0x2d
+[ 5003.773330]  [<ffffffff86679fac>] ? update_group_capacity+0x131/0x2b7
+[ 5003.774649]  [<ffffffff868b1100>] ? find_next_bit+0x15/0x1b
+[ 5003.775825]  [<ffffffff8689f091>] ? cpumask_next_and+0x22/0x40
+[ 5003.777119]  [<ffffffff8667a2b8>] ? find_busiest_group+0x186/0xffa
+[ 5003.778368]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.779518]  [<ffffffff867136df>] ? __mod_zone_page_state+0x7f/0x90
+[ 5003.780552]  [<ffffffff86669f16>] ? get_parent_ip+0xd/0x3c
+[ 5003.781358]  [<ffffffff86669fbd>] ? preempt_count_add+0x78/0x8b
+[ 5003.782279]  [<ffffffff867029c1>] ? get_page_from_freelist+0x620/0x7b9
+[ 5003.783244]  [<ffffffff866dbdd9>] ? probe_sched_wakeup+0x1b/0x1d
+[ 5003.784086]  [<ffffffff86702d1e>] ? __alloc_pages_nodemask+0xf1/0x8f6
+[ 5003.785056]  [<ffffffff8666962d>] ? default_wake_function+0x12/0x14
+[ 5003.786415]  [<ffffffff866823a6>] ? autoremove_wake_function+0xd/0x2f
+[ 5003.787691]  [<ffffffff86681d86>] ? __wake_up_common+0x50/0x7c
+[ 5003.788790]  [<ffffffff868b7334>] ? __this_cpu_preempt_check+0x13/0x15
+[ 5003.789930]  [<ffffffff868b731f>] ? debug_smp_processor_id+0x17/0x19
+[ 5003.791178]  [<ffffffff86708063>] ? __lru_cache_add+0x6d/0x82
+[ 5003.792242]  [<ffffffff866852a0>] ? cpuacct_charge+0x48/0x4f
+[ 5003.793306]  [<ffffffff866852a0>] ? cpuacct_charge+0x48/0x4f
+[ 5003.794373]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.795627]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.796725]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.798015]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.799080]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.799932]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.801060]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.802162]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.803267]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.804360]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.805474]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.806705]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.807950]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.809088]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.810186]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.811058]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.811890]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.812626]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.813389]  [<ffffffff86d44efd>] ? __schedule+0x457/0x63e
+[ 5003.814158]  [<ffffffff86d44ef1>] ? __schedule+0x44b/0x63e
+[ 5003.814967]  [<ffffffff86d44efd>] ? __schedule+0x457/
+[ 5004.277692] binder_alloc: 1896: binder_alloc_buf, no vma
+[ 5004.278952] binder: 2203:2203 transaction failed 29189/-3, size 76-0 line 3134
+[ 5004.322215] binder_alloc: 1896: binder_alloc_buf, no vma
+[ 5004.323241] binder: 2203:2203 transaction failed 29189/-3, size 2492-8 line 3134
+[ 5004.365034] binder_alloc: 1896: binder_alloc_buf, no vma
+[ 5004.366221] binder: 1629:2149 transaction failed 29189/-3, size 84-8 line 3134
+[ 5004.405083] binder: undelivered TRANSACTION_COMPLETE
+[ 5004.406451] binder: undelivered transaction 603722, process died.
+[ 5004.438677] binder: release 1896:1920 transaction 595785 out, still active
+[ 5004.439743] binder: undelivered TRANSACTION_COMPLETE
+[ 5004.635602] init: Untracked pid 2203 received signal 9
+[ 5004.636707] init: Service 'zygote' (pid 1743) received signal 9
+[ 5004.659097] init: Sending signal 9 to service 'zygote' (pid 1743) process group...
+[ 5004.729361] libprocessgroup: Successfully killed process cgroup uid 0 pid 1743 in 60ms
+[ 5004.749939] binder: 1751:1751 transaction failed 29189/-22, size 60-0 line 3011
+[ 5004.763497] init: Command 'write /sys/power/state on' action=onrestart (<Service 'zygote' onrestart>:2) took 0ms and failed: Unable to write to file '/sys/power/state': Unable to write file contents: Invalid argument
+[ 5004.766652] init: Sending signal 9 to service 'audioserver' (pid 1640) process group...
+[ 5004.782400] libprocessgroup: Successfully killed process cgroup uid 1041 pid 1640 in 14ms
+[ 5004.809615] init: Sending signal 9 to service 'cameraserver' (pid 1745) process group...
+[ 5004.816400] libprocessgroup: Successfully killed process cgroup uid 1047 pid 1745 in 5ms
+[ 5004.817661] init: Sending signal 9 to service 'media' (pid 1753) process group...
+[ 5004.824249] libprocessgroup: Successfully killed process cgroup uid 1013 pid 1753 in 5ms
+[ 5004.825611] init: Sending signal 9 to service 'netd' (pid 1754) process group...
+[ 5004.838679] libprocessgroup: Successfully killed process cgroup uid 0 pid 1754 in 8ms
+[ 5004.840296] init: Sending signal 9 to service 'wificond' (pid 1757) process group...
+[ 5004.850335] libprocessgroup: Successfully killed process cgroup uid 1010 pid 1757 in 8ms
+[ 5004.851826] init: Service 'audioserver' (pid 1640) received signal 9
+[ 5004.852925] init: Sending signal 9 to service 'vendor.audio-hal-2-0' (pid 1620) process group...
+[ 5004.884626] libprocessgroup: Successfully killed process cgroup uid 1041 pid 1620 in 30ms
+[ 5004.886287] init: Command 'restart audio-hal-2-0' action=onrestart (<Service 'audioserver' onrestart>:2) took 0ms and failed: service audio-hal-2-0 not found
+[ 5004.888081] init: Service 'vendor.audio-hal-2-0' (pid 1620) received signal 9
+[ 5004.889374] init: Service 'cameraserver' (pid 1745) received signal 9
+[ 5004.893069] init: Service 'media' (pid 1753) received signal 9
+[ 5004.893986] init: Service 'netd' (pid 1754) received signal 9
+[ 5004.894743] init: Sending signal 9 to service 'zygote_secondary' (pid 1744) process group...
+[ 5004.953432] libprocessgroup: Successfully killed process cgroup uid 0 pid 1744 in 57ms
+[ 5004.957598] init: Command 'restart zygote_secondary' action=onrestart (<Service 'netd' onrestart>:2) took 62ms and succeeded
+[ 5004.961139] init: Service 'zygote_secondary' (pid 1744) received signal 9
+[ 5004.962603] init: Service 'wificond' (pid 1757) received signal 9
+[ 5004.963862] init: Untracked pid 2040 received signal 9
+[ 5004.964951] init: Untracked pid 2300 received signal 9
+[ 5004.965974] init: Untracked pid 2620 received signal 9
+[ 5004.966855] init: Untracked pid 2669 received signal 9
+[ 5004.967738] init: Untracked pid 2739 received signal 9
+[ 5004.968536] init: Untracked pid 2982 received signal 9
+[ 5004.969356] binder: 1751:2340 transaction failed 29189/-22, size 60-0 line 3011
+[ 5004.970741] init: Untracked pid 3958 received signal 9
+[ 5004.971579] init: Untracked pid 4853 received signal 9
+[ 5004.974971] init: Untracked pid 2035 received signal 9
+[ 5004.975620] init: Untracked pid 2590 received signal 9
+[ 5004.976210] init: Untracked pid 5593 received signal 9
+[ 5004.976855] init: Untracked pid 6212 received signal 9
+[ 5004.977499] init: Untracked pid 6278 received signal 9
+[ 5004.978645] init: Untracked pid 6469 received signal 9
+[ 5004.979895] init: Untracked pid 6630 received signal 9
+[ 5004.981234] init: Untracked pid 6635 received signal 9
+[ 5004.982053] init: Untracked pid 6676 received signal 9
+[ 5004.982854] init: Untracked pid 2418 received signal 9
+[ 5004.983589] init: Untracked pid 1794 received signal 9
+[ 5004.984383] init: Untracked pid 1795 received signal 9
+[ 5004.998383] init: Untracked pid 2646 received signal 9
+[ 5004.999595] init: Untracked pid 2771 received signal 9
+[ 5005.000573] init: Untracked pid 3625 received signal 9
+[ 5005.001588] init: Untracked pid 6509 received signal 9
+[ 5005.005562] init: starting service 'zygote'...
+[ 5005.008781] init: starting service 'zygote_secondary'...
+[ 5005.009352] init: Created socket '/dev/socket/zygote', mode 660, user 0, group 1000
+[ 5005.014126] init: starting service 'audioserver'...
+[ 5005.014314] init: Created socket '/dev/socket/zygote_secondary', mode 660, user 0, group 1000
+[ 5005.017172] init: starting service 'cameraserver'...
+[ 5005.018544] init: starting service 'media'...
+[ 5005.019817] init: starting service 'netd'...
+[ 5005.021531] init: couldn't write 6888 to /dev/cpuset/camera-daemon/tasks: No such file or directory
+[ 5005.033873] init: starting service 'wificond'...
+[ 5005.034978] init: Created socket '/dev/socket/netd', mode 660, user 0, group 1000
+[ 5005.036319] init: Created socket '/dev/socket/dnsproxyd', mode 660, user 0, group 3003
+[ 5005.037457] init: starting service 'vendor.audio-hal-2-0'...
+[ 5005.038808] init: Created socket '/dev/socket/mdns', mode 660, user 0, group 1000
+[ 5005.040154] init: Created socket '/dev/socket/fwmarkd', mode 660, user 0, group 3003
+[ 5005.043358] init: Untracked pid 2763 received signal 9
+[ 5006.225107] init: Untracked pid 6164 received signal 1
+[ 5065.460953] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5125.478964] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5185.501475] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5245.551969] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5305.603907] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5365.622568] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5402.370268] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5402.425736] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
+[ 5462.381121] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900 fc=300000 cc=10 chg=
